@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: b5738297719629947a2200ecd7c26926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8608288556072947745
+    second: Town Tileset v1.4_0
+  - first:
+      213: -3212174965284939502
+    second: Town Tileset v1.4_1
+  - first:
+      213: -3999565701578566047
+    second: Town Tileset v1.4_2
+  - first:
+      213: -62812236081773275
+    second: Town Tileset v1.4_3
+  - first:
+      213: 5053473455971591672
+    second: Town Tileset v1.4_4
+  - first:
+      213: 4054752063545400793
+    second: Town Tileset v1.4_5
+  - first:
+      213: -5006294072158235665
+    second: Town Tileset v1.4_6
+  - first:
+      213: -7264204776203159098
+    second: Town Tileset v1.4_7
+  - first:
+      213: -6046303857498845900
+    second: Town Tileset v1.4_8
+  - first:
+      213: -4356576080671787480
+    second: Town Tileset v1.4_9
+  - first:
+      213: -3821110363857936999
+    second: Town Tileset v1.4_10
+  - first:
+      213: 5932250443541305774
+    second: Town Tileset v1.4_11
+  - first:
+      213: -8791340889015649701
+    second: Town Tileset v1.4_12
+  - first:
+      213: -1265370370926115236
+    second: Town Tileset v1.4_13
+  - first:
+      213: 240805868665563929
+    second: Town Tileset v1.4_14
+  - first:
+      213: -4438766447704240179
+    second: Town Tileset v1.4_15
+  - first:
+      213: -8236222497962994750
+    second: Town Tileset v1.4_16
+  - first:
+      213: 4294123089853910507
+    second: Town Tileset v1.4_17
+  - first:
+      213: 2053418663869354662
+    second: Town Tileset v1.4_18
+  - first:
+      213: 4096479687531607353
+    second: Town Tileset v1.4_19
+  - first:
+      213: 4081965654594924405
+    second: Town Tileset v1.4_20
+  - first:
+      213: 5188454958273630570
+    second: Town Tileset v1.4_21
+  - first:
+      213: 2039179339780000164
+    second: Town Tileset v1.4_22
+  - first:
+      213: 3878783426074972747
+    second: Town Tileset v1.4_23
+  - first:
+      213: 6621271676124688506
+    second: Town Tileset v1.4_24
+  - first:
+      213: 4772676206061927557
+    second: Town Tileset v1.4_25
+  - first:
+      213: 8061992385108538571
+    second: Town Tileset v1.4_26
+  - first:
+      213: -7293090815049097060
+    second: Town Tileset v1.4_27
+  - first:
+      213: 3598354824072468208
+    second: Town Tileset v1.4_28
+  - first:
+      213: -8832190271827135891
+    second: Town Tileset v1.4_29
+  - first:
+      213: -3835494206821558691
+    second: Town Tileset v1.4_30
+  - first:
+      213: 7660362755748562428
+    second: Town Tileset v1.4_31
+  - first:
+      213: -700733553730792437
+    second: Town Tileset v1.4_32
+  - first:
+      213: -6068415900443824470
+    second: Town Tileset v1.4_33
+  - first:
+      213: -6157221460327065283
+    second: Town Tileset v1.4_34
+  - first:
+      213: 2342562966321113315
+    second: Town Tileset v1.4_35
+  - first:
+      213: -5620450834127326948
+    second: Town Tileset v1.4_36
+  - first:
+      213: -937650851317185109
+    second: Town Tileset v1.4_37
+  - first:
+      213: -1098194734476405605
+    second: Town Tileset v1.4_38
+  - first:
+      213: 5905675223177201820
+    second: Town Tileset v1.4_39
+  - first:
+      213: -3897672567327799190
+    second: Town Tileset v1.4_40
+  - first:
+      213: -4529992573113267145
+    second: Town Tileset v1.4_41
+  - first:
+      213: 4948913058881720891
+    second: Town Tileset v1.4_42
+  - first:
+      213: -2100990117904988805
+    second: Town Tileset v1.4_43
+  - first:
+      213: -4394522982426411556
+    second: Town Tileset v1.4_44
+  - first:
+      213: -8871802154203068211
+    second: Town Tileset v1.4_45
+  - first:
+      213: -4466796503946968744
+    second: Town Tileset v1.4_46
+  - first:
+      213: 3629108687708152563
+    second: Town Tileset v1.4_47
+  - first:
+      213: 7677413071605366532
+    second: Town Tileset v1.4_48
+  - first:
+      213: 7228395931370667050
+    second: Town Tileset v1.4_49
+  - first:
+      213: 5214255701566444198
+    second: Town Tileset v1.4_50
+  - first:
+      213: 1382977483792043308
+    second: Town Tileset v1.4_51
+  - first:
+      213: -5623376249239196764
+    second: Town Tileset v1.4_52
+  - first:
+      213: -7651457222144658847
+    second: Town Tileset v1.4_53
+  - first:
+      213: -7685684766482238900
+    second: Town Tileset v1.4_54
+  - first:
+      213: 7027782318790167207
+    second: Town Tileset v1.4_55
+  - first:
+      213: 6733488159801818689
+    second: Town Tileset v1.4_56
+  - first:
+      213: 831672289025648222
+    second: Town Tileset v1.4_57
+  - first:
+      213: 4935377620140325937
+    second: Town Tileset v1.4_58
+  - first:
+      213: -4943985377181678385
+    second: Town Tileset v1.4_59
+  - first:
+      213: 2649771192306295244
+    second: Town Tileset v1.4_60
+  - first:
+      213: 159575333290253473
+    second: Town Tileset v1.4_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Town Tileset v1.4_0
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 640
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf263bba27398880800000000000000
+      internalID: -8608288556072947745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 640
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d9cd43ef0c63d0800000000000000
+      internalID: -3212174965284939502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 640
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166d29d5f20be78c0800000000000000
+      internalID: -3999565701578566047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5254cc4aa98d02ff0800000000000000
+      internalID: -62812236081773275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 640
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56d01755b812640800000000000000
+      internalID: 5053473455971591672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd7efc48f554830800000000000000
+      internalID: 4054752063545400793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35ddbd012168ab0800000000000000
+      internalID: -5006294072158235665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f6b25e3c503b90800000000000000
+      internalID: -7264204776203159098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 608
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d05b12da6371ca0800000000000000
+      internalID: -6046303857498845900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 608
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826389203255a83c0800000000000000
+      internalID: -4356576080671787480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d1fa28e50b8fac0800000000000000
+      internalID: -3821110363857936999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 608
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9dee51956935250800000000000000
+      internalID: 5932250443541305774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5afada3a02eef580800000000000000
+      internalID: -8791340889015649701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 576
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5605a31a50807ee0800000000000000
+      internalID: -1265370370926115236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be3a569a3875300800000000000000
+      internalID: 240805868665563929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 576
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf8aa3fe655662c0800000000000000
+      internalID: -4438766447704240179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d5d5864f03bd80800000000000000
+      internalID: -8236222497962994750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 547
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed8b80f23ac79b30800000000000000
+      internalID: 4294123089853910507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_18
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 640
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2171335653f7c10800000000000000
+      internalID: 2053418663869354662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 547
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935bcec529e99d830800000000000000
+      internalID: 4096479687531607353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_20
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 483
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa97bb22e06a830800000000000000
+      internalID: 4081965654594924405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 515
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6193018b48110840800000000000000
+      internalID: 5188454958273630570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 547
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a907e43ece9c4c10800000000000000
+      internalID: 2039179339780000164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_23
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 132
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b421fdfa9f434d530800000000000000
+      internalID: 3878783426074972747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_24
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 65
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7074c8228b73eb50800000000000000
+      internalID: 6621271676124688506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 63
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb74209b3fb3240800000000000000
+      internalID: 4772676206061927557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_26
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 70
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47c482c53f1ef60800000000000000
+      internalID: 8061992385108538571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_27
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 121
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a55e4b8cb9ca90800000000000000
+      internalID: -7293090815049097060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_28
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 27
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f617a8c5acefe130800000000000000
+      internalID: 3598354824072468208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_29
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 70
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6235132eb1cd6580800000000000000
+      internalID: -8832190271827135891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_30
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 165
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561558175695cac0800000000000000
+      internalID: -3835494206821558691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_31
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 732
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5860b07531f4a60800000000000000
+      internalID: 7660362755748562428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_32
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 646
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04dda7ab8e7646f0800000000000000
+      internalID: -700733553730792437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_33
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 305
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea6b0f3e7a8cba0800000000000000
+      internalID: -6068415900443824470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_34
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 213
+        width: 99
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d391bc544b72d8aa0800000000000000
+      internalID: -6157221460327065283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_35
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 278
+        width: 99
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e82e8f3b94728020800000000000000
+      internalID: 2342562966321113315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_36
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 480
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11fa4aaeb52002b0800000000000000
+      internalID: -5620450834127326948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_37
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 480
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba585e3c48bccf2f0800000000000000
+      internalID: -937650851317185109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_38
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 480
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94545d15bd62c0f0800000000000000
+      internalID: -1098194734476405605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_39
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 480
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c988d4c635c25f150800000000000000
+      internalID: 5905675223177201820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_41
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 442
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0d6471cb3221c0800000000000000
+      internalID: -4529992573113267145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_42
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 416
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32dfe2e4321ea440800000000000000
+      internalID: 4948913058881720891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_43
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 416
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75caa98e98c7d2e0800000000000000
+      internalID: -2100990117904988805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_44
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 416
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddfe2371a48303c0800000000000000
+      internalID: -4394522982426411556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_45
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 416
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84e2112f601e480800000000000000
+      internalID: -8871802154203068211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_46
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 461
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851c84aee30c202c0800000000000000
+      internalID: -4466796503946968744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_47
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 442
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2e026af1f2d5230800000000000000
+      internalID: 3629108687708152563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_48
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 480
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f7afe0386ab8a60800000000000000
+      internalID: 7677413071605366532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_49
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3a394dcb605460800000000000000
+      internalID: 7228395931370667050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_50
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 448
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a25ceb2fe1cc5840800000000000000
+      internalID: 5214255701566444198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_51
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 448
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc9c5b1b2513310800000000000000
+      internalID: 1382977483792043308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_40
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 461
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6844a5637fa8e9c0800000000000000
+      internalID: -3897672567327799190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_52
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 416
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abaab16811c5f1b0800000000000000
+      internalID: -5623376249239196764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_53
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 255
+        width: 47
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16278f3123090d590800000000000000
+      internalID: -7651457222144658847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 314
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f136ec66f65590800000000000000
+      internalID: -7685684766482238900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_55
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 262
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa424eb8c2b78160800000000000000
+      internalID: 7027782318790167207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_56
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 220
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e39484ec7227d50800000000000000
+      internalID: 6733488159801818689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_57
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 262
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e8ec5a81ba8b00800000000000000
+      internalID: 831672289025648222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_58
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 96
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c70e8fbcbfd7440800000000000000
+      internalID: 4935377620140325937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_59
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 100
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44c5a6e7f636bb0800000000000000
+      internalID: -4943985377181678385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_60
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 36
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ea7d3cd0e5c420800000000000000
+      internalID: 2649771192306295244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Town Tileset v1.4_61
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 791
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1eaf8bece63200800000000000000
+      internalID: 159575333290253473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

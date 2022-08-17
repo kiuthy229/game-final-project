@@ -1,0 +1,3176 @@
+fileFormatVersion: 2
+guid: 355665a3a4ee2de429a594172ad1be7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 87217769610293002
+    second: Medieval Townsfolk 3 Sprite Sheet_0
+  - first:
+      213: -6446924929724708638
+    second: Medieval Townsfolk 3 Sprite Sheet_1
+  - first:
+      213: 365163074613295425
+    second: Medieval Townsfolk 3 Sprite Sheet_2
+  - first:
+      213: 4641594541059516850
+    second: Medieval Townsfolk 3 Sprite Sheet_3
+  - first:
+      213: -6702426754879271243
+    second: Medieval Townsfolk 3 Sprite Sheet_4
+  - first:
+      213: 3036240927607959233
+    second: Medieval Townsfolk 3 Sprite Sheet_5
+  - first:
+      213: -8176962742210058271
+    second: Medieval Townsfolk 3 Sprite Sheet_6
+  - first:
+      213: -2763651792724531958
+    second: Medieval Townsfolk 3 Sprite Sheet_7
+  - first:
+      213: -4165488235835161482
+    second: Medieval Townsfolk 3 Sprite Sheet_8
+  - first:
+      213: -7640398906087151830
+    second: Medieval Townsfolk 3 Sprite Sheet_9
+  - first:
+      213: -3635134596261354812
+    second: Medieval Townsfolk 3 Sprite Sheet_10
+  - first:
+      213: -4419168348355616394
+    second: Medieval Townsfolk 3 Sprite Sheet_11
+  - first:
+      213: 4520403229237863027
+    second: Medieval Townsfolk 3 Sprite Sheet_12
+  - first:
+      213: -534348473596823665
+    second: Medieval Townsfolk 3 Sprite Sheet_13
+  - first:
+      213: -8135940300139382475
+    second: Medieval Townsfolk 3 Sprite Sheet_14
+  - first:
+      213: -5922793579515491168
+    second: Medieval Townsfolk 3 Sprite Sheet_15
+  - first:
+      213: 1803845857007153735
+    second: Medieval Townsfolk 3 Sprite Sheet_16
+  - first:
+      213: -9177060482745252259
+    second: Medieval Townsfolk 3 Sprite Sheet_17
+  - first:
+      213: 7341130570118798571
+    second: Medieval Townsfolk 3 Sprite Sheet_18
+  - first:
+      213: -6330861265507117621
+    second: Medieval Townsfolk 3 Sprite Sheet_19
+  - first:
+      213: -7824961655739272616
+    second: Medieval Townsfolk 3 Sprite Sheet_20
+  - first:
+      213: -1273715497190749916
+    second: Medieval Townsfolk 3 Sprite Sheet_21
+  - first:
+      213: -4080176174876240192
+    second: Medieval Townsfolk 3 Sprite Sheet_22
+  - first:
+      213: -1854863250503852076
+    second: Medieval Townsfolk 3 Sprite Sheet_23
+  - first:
+      213: 5335293986874986233
+    second: Medieval Townsfolk 3 Sprite Sheet_24
+  - first:
+      213: -7772199780693182798
+    second: Medieval Townsfolk 3 Sprite Sheet_25
+  - first:
+      213: -7667514275405054518
+    second: Medieval Townsfolk 3 Sprite Sheet_26
+  - first:
+      213: -2248434168857873439
+    second: Medieval Townsfolk 3 Sprite Sheet_27
+  - first:
+      213: 6312713734983795974
+    second: Medieval Townsfolk 3 Sprite Sheet_28
+  - first:
+      213: -4480454907600396792
+    second: Medieval Townsfolk 3 Sprite Sheet_29
+  - first:
+      213: -8292861900876136213
+    second: Medieval Townsfolk 3 Sprite Sheet_30
+  - first:
+      213: -2769916862115084054
+    second: Medieval Townsfolk 3 Sprite Sheet_31
+  - first:
+      213: 1347828019252536832
+    second: Medieval Townsfolk 3 Sprite Sheet_32
+  - first:
+      213: -2049871768737022927
+    second: Medieval Townsfolk 3 Sprite Sheet_33
+  - first:
+      213: 1271744641920662410
+    second: Medieval Townsfolk 3 Sprite Sheet_34
+  - first:
+      213: -1565688951813672723
+    second: Medieval Townsfolk 3 Sprite Sheet_35
+  - first:
+      213: -4378056130135465941
+    second: Medieval Townsfolk 3 Sprite Sheet_36
+  - first:
+      213: 5398272898538594399
+    second: Medieval Townsfolk 3 Sprite Sheet_37
+  - first:
+      213: -5578886184865984112
+    second: Medieval Townsfolk 3 Sprite Sheet_38
+  - first:
+      213: 1123007050880794311
+    second: Medieval Townsfolk 3 Sprite Sheet_39
+  - first:
+      213: 1342693208870100481
+    second: Medieval Townsfolk 3 Sprite Sheet_40
+  - first:
+      213: -8286149774420199716
+    second: Medieval Townsfolk 3 Sprite Sheet_41
+  - first:
+      213: -7672068221870083502
+    second: Medieval Townsfolk 3 Sprite Sheet_42
+  - first:
+      213: 7042599759124061185
+    second: Medieval Townsfolk 3 Sprite Sheet_43
+  - first:
+      213: -4926393003417324449
+    second: Medieval Townsfolk 3 Sprite Sheet_44
+  - first:
+      213: -6597930519904104683
+    second: Medieval Townsfolk 3 Sprite Sheet_45
+  - first:
+      213: 6523864898060121119
+    second: Medieval Townsfolk 3 Sprite Sheet_46
+  - first:
+      213: 421039226945564193
+    second: Medieval Townsfolk 3 Sprite Sheet_47
+  - first:
+      213: 8028699471553100501
+    second: Medieval Townsfolk 3 Sprite Sheet_48
+  - first:
+      213: -8986982445554608056
+    second: Medieval Townsfolk 3 Sprite Sheet_49
+  - first:
+      213: 7343278091574047399
+    second: Medieval Townsfolk 3 Sprite Sheet_50
+  - first:
+      213: -3156704133542364280
+    second: Medieval Townsfolk 3 Sprite Sheet_51
+  - first:
+      213: -2616462428500406462
+    second: Medieval Townsfolk 3 Sprite Sheet_52
+  - first:
+      213: -7366102184041631729
+    second: Medieval Townsfolk 3 Sprite Sheet_53
+  - first:
+      213: -4367847322604527541
+    second: Medieval Townsfolk 3 Sprite Sheet_54
+  - first:
+      213: 2766311936837671913
+    second: Medieval Townsfolk 3 Sprite Sheet_55
+  - first:
+      213: -6660317708414724561
+    second: Medieval Townsfolk 3 Sprite Sheet_56
+  - first:
+      213: 3610140932563910294
+    second: Medieval Townsfolk 3 Sprite Sheet_57
+  - first:
+      213: -6019632644031769949
+    second: Medieval Townsfolk 3 Sprite Sheet_58
+  - first:
+      213: 3248369921669779840
+    second: Medieval Townsfolk 3 Sprite Sheet_59
+  - first:
+      213: -4332768912231187612
+    second: Medieval Townsfolk 3 Sprite Sheet_60
+  - first:
+      213: -6865555435317148168
+    second: Medieval Townsfolk 3 Sprite Sheet_61
+  - first:
+      213: -4340883994169700712
+    second: Medieval Townsfolk 3 Sprite Sheet_62
+  - first:
+      213: -2885284461378587999
+    second: Medieval Townsfolk 3 Sprite Sheet_63
+  - first:
+      213: -2190484004778930294
+    second: Medieval Townsfolk 3 Sprite Sheet_64
+  - first:
+      213: -8231310548605931588
+    second: Medieval Townsfolk 3 Sprite Sheet_65
+  - first:
+      213: 3421895505173267628
+    second: Medieval Townsfolk 3 Sprite Sheet_66
+  - first:
+      213: -7294726229917430224
+    second: Medieval Townsfolk 3 Sprite Sheet_67
+  - first:
+      213: -7597777380765920401
+    second: Medieval Townsfolk 3 Sprite Sheet_68
+  - first:
+      213: -1298430273328544482
+    second: Medieval Townsfolk 3 Sprite Sheet_69
+  - first:
+      213: -8138053399278521382
+    second: Medieval Townsfolk 3 Sprite Sheet_70
+  - first:
+      213: 3581714153264378942
+    second: Medieval Townsfolk 3 Sprite Sheet_71
+  - first:
+      213: -756784178687102160
+    second: Medieval Townsfolk 3 Sprite Sheet_72
+  - first:
+      213: -8353090397638185863
+    second: Medieval Townsfolk 3 Sprite Sheet_73
+  - first:
+      213: 106655936831968213
+    second: Medieval Townsfolk 3 Sprite Sheet_74
+  - first:
+      213: 4909204866831060236
+    second: Medieval Townsfolk 3 Sprite Sheet_75
+  - first:
+      213: 4630865682609688817
+    second: Medieval Townsfolk 3 Sprite Sheet_76
+  - first:
+      213: -5314531477200451567
+    second: Medieval Townsfolk 3 Sprite Sheet_77
+  - first:
+      213: 8364921349121377722
+    second: Medieval Townsfolk 3 Sprite Sheet_78
+  - first:
+      213: -6527939701913152228
+    second: Medieval Townsfolk 3 Sprite Sheet_79
+  - first:
+      213: -3481682018922519710
+    second: Medieval Townsfolk 3 Sprite Sheet_80
+  - first:
+      213: -4184418448807780783
+    second: Medieval Townsfolk 3 Sprite Sheet_81
+  - first:
+      213: -2855656899917647929
+    second: Medieval Townsfolk 3 Sprite Sheet_82
+  - first:
+      213: -4814542527178096338
+    second: Medieval Townsfolk 3 Sprite Sheet_83
+  - first:
+      213: 6371893492460315672
+    second: Medieval Townsfolk 3 Sprite Sheet_84
+  - first:
+      213: -3358144330112081776
+    second: Medieval Townsfolk 3 Sprite Sheet_85
+  - first:
+      213: 1480304235806702623
+    second: Medieval Townsfolk 3 Sprite Sheet_86
+  - first:
+      213: 8824768031378392230
+    second: Medieval Townsfolk 3 Sprite Sheet_87
+  - first:
+      213: 3129462341283652093
+    second: Medieval Townsfolk 3 Sprite Sheet_88
+  - first:
+      213: 2850330273669111502
+    second: Medieval Townsfolk 3 Sprite Sheet_89
+  - first:
+      213: -6869506276281873406
+    second: Medieval Townsfolk 3 Sprite Sheet_90
+  - first:
+      213: -3104988058645629806
+    second: Medieval Townsfolk 3 Sprite Sheet_91
+  - first:
+      213: -4648126719586666920
+    second: Medieval Townsfolk 3 Sprite Sheet_92
+  - first:
+      213: 1406107994598667872
+    second: Medieval Townsfolk 3 Sprite Sheet_93
+  - first:
+      213: 262352640720009220
+    second: Medieval Townsfolk 3 Sprite Sheet_94
+  - first:
+      213: -5610003305304980585
+    second: Medieval Townsfolk 3 Sprite Sheet_95
+  - first:
+      213: -8792525713691694248
+    second: Medieval Townsfolk 3 Sprite Sheet_96
+  - first:
+      213: 3101701718849770840
+    second: Medieval Townsfolk 3 Sprite Sheet_97
+  - first:
+      213: -8858806341481336754
+    second: Medieval Townsfolk 3 Sprite Sheet_98
+  - first:
+      213: 991769612237041717
+    second: Medieval Townsfolk 3 Sprite Sheet_99
+  - first:
+      213: 3765560177833089167
+    second: Medieval Townsfolk 3 Sprite Sheet_100
+  - first:
+      213: 1654279554444406332
+    second: Medieval Townsfolk 3 Sprite Sheet_101
+  - first:
+      213: -5227676101199346963
+    second: Medieval Townsfolk 3 Sprite Sheet_102
+  - first:
+      213: -2210745582392840959
+    second: Medieval Townsfolk 3 Sprite Sheet_103
+  - first:
+      213: -342911872750680300
+    second: Medieval Townsfolk 3 Sprite Sheet_104
+  - first:
+      213: -7927408527242296379
+    second: Medieval Townsfolk 3 Sprite Sheet_105
+  - first:
+      213: -6105268442435432824
+    second: Medieval Townsfolk 3 Sprite Sheet_106
+  - first:
+      213: 4192286734741449305
+    second: Medieval Townsfolk 3 Sprite Sheet_107
+  - first:
+      213: 8119254070850450418
+    second: Medieval Townsfolk 3 Sprite Sheet_108
+  - first:
+      213: 6416774115977401056
+    second: Medieval Townsfolk 3 Sprite Sheet_109
+  - first:
+      213: 6627911107731251658
+    second: Medieval Townsfolk 3 Sprite Sheet_110
+  - first:
+      213: 9094213657198739858
+    second: Medieval Townsfolk 3 Sprite Sheet_111
+  - first:
+      213: -9058030006459647247
+    second: Medieval Townsfolk 3 Sprite Sheet_112
+  - first:
+      213: -3816360222416004714
+    second: Medieval Townsfolk 3 Sprite Sheet_113
+  - first:
+      213: 740510734821147945
+    second: Medieval Townsfolk 3 Sprite Sheet_114
+  - first:
+      213: -6377123713674284754
+    second: Medieval Townsfolk 3 Sprite Sheet_115
+  - first:
+      213: 3311515305546908420
+    second: Medieval Townsfolk 3 Sprite Sheet_116
+  - first:
+      213: -3815926667844164567
+    second: Medieval Townsfolk 3 Sprite Sheet_117
+  - first:
+      213: 775492031437854418
+    second: Medieval Townsfolk 3 Sprite Sheet_118
+  - first:
+      213: 5993152216313261677
+    second: Medieval Townsfolk 3 Sprite Sheet_119
+  - first:
+      213: -4538109865864519497
+    second: Medieval Townsfolk 3 Sprite Sheet_120
+  - first:
+      213: -2502261136260485275
+    second: Medieval Townsfolk 3 Sprite Sheet_121
+  - first:
+      213: 7664216857795084086
+    second: Medieval Townsfolk 3 Sprite Sheet_122
+  - first:
+      213: -7858798288291197887
+    second: Medieval Townsfolk 3 Sprite Sheet_123
+  - first:
+      213: 8895354242424334143
+    second: Medieval Townsfolk 3 Sprite Sheet_124
+  - first:
+      213: 3848088420925292083
+    second: Medieval Townsfolk 3 Sprite Sheet_125
+  - first:
+      213: -1339806992227189814
+    second: Medieval Townsfolk 3 Sprite Sheet_126
+  - first:
+      213: 5806542515434642470
+    second: Medieval Townsfolk 3 Sprite Sheet_127
+  - first:
+      213: 6330880089858100028
+    second: Medieval Townsfolk 3 Sprite Sheet_128
+  - first:
+      213: -5246093352003275424
+    second: Medieval Townsfolk 3 Sprite Sheet_129
+  - first:
+      213: 7417180483732951974
+    second: Medieval Townsfolk 3 Sprite Sheet_130
+  - first:
+      213: 7776586136748277776
+    second: Medieval Townsfolk 3 Sprite Sheet_131
+  - first:
+      213: 6321534430938589481
+    second: Medieval Townsfolk 3 Sprite Sheet_132
+  - first:
+      213: 452156096426790227
+    second: Medieval Townsfolk 3 Sprite Sheet_133
+  - first:
+      213: -2078968733253871847
+    second: Medieval Townsfolk 3 Sprite Sheet_134
+  - first:
+      213: -7790294393979651564
+    second: Medieval Townsfolk 3 Sprite Sheet_135
+  - first:
+      213: 7587250358660973514
+    second: Medieval Townsfolk 3 Sprite Sheet_136
+  - first:
+      213: 3492189226809680003
+    second: Medieval Townsfolk 3 Sprite Sheet_137
+  - first:
+      213: -7957674042673246654
+    second: Medieval Townsfolk 3 Sprite Sheet_138
+  - first:
+      213: -7322320519391620855
+    second: Medieval Townsfolk 3 Sprite Sheet_139
+  - first:
+      213: 3148369460917103057
+    second: Medieval Townsfolk 3 Sprite Sheet_140
+  - first:
+      213: 7043770049045389591
+    second: Medieval Townsfolk 3 Sprite Sheet_141
+  - first:
+      213: -8360065438436883679
+    second: Medieval Townsfolk 3 Sprite Sheet_142
+  - first:
+      213: 2995834891738701464
+    second: Medieval Townsfolk 3 Sprite Sheet_143
+  - first:
+      213: 5443578520076990926
+    second: Medieval Townsfolk 3 Sprite Sheet_144
+  - first:
+      213: 5855244793324306537
+    second: Medieval Townsfolk 3 Sprite Sheet_145
+  - first:
+      213: -4742172097317186353
+    second: Medieval Townsfolk 3 Sprite Sheet_146
+  - first:
+      213: -3667380158821952617
+    second: Medieval Townsfolk 3 Sprite Sheet_147
+  - first:
+      213: -4536376311265498986
+    second: Medieval Townsfolk 3 Sprite Sheet_148
+  - first:
+      213: 1460529084248288476
+    second: Medieval Townsfolk 3 Sprite Sheet_149
+  - first:
+      213: 7730979502407459275
+    second: Medieval Townsfolk 3 Sprite Sheet_150
+  - first:
+      213: 2785929479448664959
+    second: Medieval Townsfolk 3 Sprite Sheet_151
+  - first:
+      213: -8777089370602851828
+    second: Medieval Townsfolk 3 Sprite Sheet_152
+  - first:
+      213: 57360956205108823
+    second: Medieval Townsfolk 3 Sprite Sheet_153
+  - first:
+      213: 11550439562494831
+    second: Medieval Townsfolk 3 Sprite Sheet_154
+  - first:
+      213: 5600761277109267803
+    second: Medieval Townsfolk 3 Sprite Sheet_155
+  - first:
+      213: 85789227924474128
+    second: Medieval Townsfolk 3 Sprite Sheet_156
+  - first:
+      213: 5516251698965069764
+    second: Medieval Townsfolk 3 Sprite Sheet_157
+  - first:
+      213: -6714636440914504891
+    second: Medieval Townsfolk 3 Sprite Sheet_158
+  - first:
+      213: 4188564487910537295
+    second: Medieval Townsfolk 3 Sprite Sheet_159
+  - first:
+      213: -1460769727226746610
+    second: Medieval Townsfolk 3 Sprite Sheet_160
+  - first:
+      213: -3129967393359535762
+    second: Medieval Townsfolk 3 Sprite Sheet_161
+  - first:
+      213: -4265411605311524205
+    second: Medieval Townsfolk 3 Sprite Sheet_162
+  - first:
+      213: -2829963787407936982
+    second: Medieval Townsfolk 3 Sprite Sheet_163
+  - first:
+      213: -4126435100289790856
+    second: Medieval Townsfolk 3 Sprite Sheet_164
+  - first:
+      213: 2230232493318814730
+    second: Medieval Townsfolk 3 Sprite Sheet_165
+  - first:
+      213: -1920180090826542517
+    second: Medieval Townsfolk 3 Sprite Sheet_166
+  - first:
+      213: 3529945444316900770
+    second: Medieval Townsfolk 3 Sprite Sheet_167
+  - first:
+      213: 937664963697848339
+    second: Medieval Townsfolk 3 Sprite Sheet_168
+  - first:
+      213: -8683065469236297461
+    second: Medieval Townsfolk 3 Sprite Sheet_169
+  - first:
+      213: 5562201554555018571
+    second: Medieval Townsfolk 3 Sprite Sheet_170
+  - first:
+      213: -2388229433841014708
+    second: Medieval Townsfolk 3 Sprite Sheet_171
+  - first:
+      213: 2986990744797377025
+    second: Medieval Townsfolk 3 Sprite Sheet_172
+  - first:
+      213: -8860878355974072479
+    second: Medieval Townsfolk 3 Sprite Sheet_173
+  - first:
+      213: -3291212148109233461
+    second: Medieval Townsfolk 3 Sprite Sheet_174
+  - first:
+      213: -631347212424786346
+    second: Medieval Townsfolk 3 Sprite Sheet_175
+  - first:
+      213: -4104160903827398696
+    second: Medieval Townsfolk 3 Sprite Sheet_176
+  - first:
+      213: -6184773210770973763
+    second: Medieval Townsfolk 3 Sprite Sheet_177
+  - first:
+      213: 2673059226725949151
+    second: Medieval Townsfolk 3 Sprite Sheet_178
+  - first:
+      213: -7556807910696630513
+    second: Medieval Townsfolk 3 Sprite Sheet_179
+  - first:
+      213: 3440212775788434845
+    second: Medieval Townsfolk 3 Sprite Sheet_180
+  - first:
+      213: 687904434696763889
+    second: Medieval Townsfolk 3 Sprite Sheet_181
+  - first:
+      213: 2543515377543333831
+    second: Medieval Townsfolk 3 Sprite Sheet_182
+  - first:
+      213: -1135623382870558794
+    second: Medieval Townsfolk 3 Sprite Sheet_183
+  - first:
+      213: 3703491188082382416
+    second: Medieval Townsfolk 3 Sprite Sheet_184
+  - first:
+      213: 4498405496413840088
+    second: Medieval Townsfolk 3 Sprite Sheet_185
+  - first:
+      213: -9192363487070325658
+    second: Medieval Townsfolk 3 Sprite Sheet_186
+  - first:
+      213: -3912996375187509216
+    second: Medieval Townsfolk 3 Sprite Sheet_187
+  - first:
+      213: 2419190238234759220
+    second: Medieval Townsfolk 3 Sprite Sheet_188
+  - first:
+      213: 233913312568123704
+    second: Medieval Townsfolk 3 Sprite Sheet_189
+  - first:
+      213: -1898203519805712092
+    second: Medieval Townsfolk 3 Sprite Sheet_190
+  - first:
+      213: -2421978899375834732
+    second: Medieval Townsfolk 3 Sprite Sheet_191
+  - first:
+      213: -6156008680603351624
+    second: Medieval Townsfolk 3 Sprite Sheet_192
+  - first:
+      213: 1933113082740249107
+    second: Medieval Townsfolk 3 Sprite Sheet_193
+  - first:
+      213: -7942096145213292807
+    second: Medieval Townsfolk 3 Sprite Sheet_194
+  - first:
+      213: 997092430546892540
+    second: Medieval Townsfolk 3 Sprite Sheet_195
+  - first:
+      213: 6319868397144232228
+    second: Medieval Townsfolk 3 Sprite Sheet_196
+  - first:
+      213: 6940233362516985459
+    second: Medieval Townsfolk 3 Sprite Sheet_197
+  - first:
+      213: 5853044489778103320
+    second: Medieval Townsfolk 3 Sprite Sheet_198
+  - first:
+      213: 3852618421781509707
+    second: Medieval Townsfolk 3 Sprite Sheet_199
+  - first:
+      213: -7862835727021697337
+    second: Medieval Townsfolk 3 Sprite Sheet_200
+  - first:
+      213: 2547502787368124181
+    second: Medieval Townsfolk 3 Sprite Sheet_201
+  - first:
+      213: -7059456664412533960
+    second: Medieval Townsfolk 3 Sprite Sheet_202
+  - first:
+      213: 3500158246670268953
+    second: Medieval Townsfolk 3 Sprite Sheet_203
+  - first:
+      213: -1669750539063800038
+    second: Medieval Townsfolk 3 Sprite Sheet_204
+  - first:
+      213: 5340482638260833830
+    second: Medieval Townsfolk 3 Sprite Sheet_205
+  - first:
+      213: 7613948419530277332
+    second: Medieval Townsfolk 3 Sprite Sheet_206
+  - first:
+      213: -3972274826638839445
+    second: Medieval Townsfolk 3 Sprite Sheet_207
+  - first:
+      213: -3436901686058471216
+    second: Medieval Townsfolk 3 Sprite Sheet_208
+  - first:
+      213: 3865535171514132365
+    second: Medieval Townsfolk 3 Sprite Sheet_209
+  - first:
+      213: -4181523697641061246
+    second: Medieval Townsfolk 3 Sprite Sheet_210
+  - first:
+      213: 4121139212345696515
+    second: Medieval Townsfolk 3 Sprite Sheet_211
+  - first:
+      213: -5046671834181235626
+    second: Medieval Townsfolk 3 Sprite Sheet_212
+  - first:
+      213: -776504900510121385
+    second: Medieval Townsfolk 3 Sprite Sheet_213
+  - first:
+      213: 565814609992069985
+    second: Medieval Townsfolk 3 Sprite Sheet_214
+  - first:
+      213: 8732243969058915805
+    second: Medieval Townsfolk 3 Sprite Sheet_215
+  - first:
+      213: 998352485937778499
+    second: Medieval Townsfolk 3 Sprite Sheet_216
+  - first:
+      213: 4773631652091285847
+    second: Medieval Townsfolk 3 Sprite Sheet_217
+  - first:
+      213: 7379290567106510179
+    second: Medieval Townsfolk 3 Sprite Sheet_218
+  - first:
+      213: 7239117123002065432
+    second: Medieval Townsfolk 3 Sprite Sheet_219
+  - first:
+      213: 7457784966799044311
+    second: Medieval Townsfolk 3 Sprite Sheet_220
+  - first:
+      213: 4100985057973816514
+    second: Medieval Townsfolk 3 Sprite Sheet_221
+  - first:
+      213: 4054061936941847737
+    second: Medieval Townsfolk 3 Sprite Sheet_222
+  - first:
+      213: 6205442391675919764
+    second: Medieval Townsfolk 3 Sprite Sheet_223
+  - first:
+      213: 4178047524972440415
+    second: Medieval Townsfolk 3 Sprite Sheet_224
+  - first:
+      213: -2780420763403960839
+    second: Medieval Townsfolk 3 Sprite Sheet_225
+  - first:
+      213: -302692009126410676
+    second: Medieval Townsfolk 3 Sprite Sheet_226
+  - first:
+      213: 520378739877165301
+    second: Medieval Townsfolk 3 Sprite Sheet_227
+  - first:
+      213: -1858352790471041390
+    second: Medieval Townsfolk 3 Sprite Sheet_228
+  - first:
+      213: -5332114033197695104
+    second: Medieval Townsfolk 3 Sprite Sheet_229
+  - first:
+      213: -7473537118192037453
+    second: Medieval Townsfolk 3 Sprite Sheet_230
+  - first:
+      213: -2090964169832098519
+    second: Medieval Townsfolk 3 Sprite Sheet_231
+  - first:
+      213: -2047651199996599233
+    second: Medieval Townsfolk 3 Sprite Sheet_232
+  - first:
+      213: 691279251824400360
+    second: Medieval Townsfolk 3 Sprite Sheet_233
+  - first:
+      213: 4106013298213521169
+    second: Medieval Townsfolk 3 Sprite Sheet_234
+  - first:
+      213: -2197069896235408660
+    second: Medieval Townsfolk 3 Sprite Sheet_235
+  - first:
+      213: 4097727720224182980
+    second: Medieval Townsfolk 3 Sprite Sheet_236
+  - first:
+      213: -6451190517602208282
+    second: Medieval Townsfolk 3 Sprite Sheet_237
+  - first:
+      213: -6295910276161305890
+    second: Medieval Townsfolk 3 Sprite Sheet_238
+  - first:
+      213: 2144208443054390618
+    second: Medieval Townsfolk 3 Sprite Sheet_239
+  - first:
+      213: 1068949142618759340
+    second: Medieval Townsfolk 3 Sprite Sheet_240
+  - first:
+      213: -8201042570126479712
+    second: Medieval Townsfolk 3 Sprite Sheet_241
+  - first:
+      213: -7757596670541256383
+    second: Medieval Townsfolk 3 Sprite Sheet_242
+  - first:
+      213: 5751679384175942767
+    second: Medieval Townsfolk 3 Sprite Sheet_243
+  - first:
+      213: -6606042913053411176
+    second: Medieval Townsfolk 3 Sprite Sheet_244
+  - first:
+      213: -1259190674579392275
+    second: Medieval Townsfolk 3 Sprite Sheet_245
+  - first:
+      213: 3292986407286877084
+    second: Medieval Townsfolk 3 Sprite Sheet_246
+  - first:
+      213: 6239744319809958103
+    second: Medieval Townsfolk 3 Sprite Sheet_247
+  - first:
+      213: -3001851912948982200
+    second: Medieval Townsfolk 3 Sprite Sheet_248
+  - first:
+      213: -5261200626386465328
+    second: Medieval Townsfolk 3 Sprite Sheet_249
+  - first:
+      213: 7476358846661035432
+    second: Medieval Townsfolk 3 Sprite Sheet_250
+  - first:
+      213: 641289999796654952
+    second: Medieval Townsfolk 3 Sprite Sheet_251
+  - first:
+      213: 8664438532459005185
+    second: Medieval Townsfolk 3 Sprite Sheet_252
+  - first:
+      213: -2748274370155641162
+    second: Medieval Townsfolk 3 Sprite Sheet_253
+  - first:
+      213: -4197975285441734429
+    second: Medieval Townsfolk 3 Sprite Sheet_254
+  - first:
+      213: 1255973605330490746
+    second: Medieval Townsfolk 3 Sprite Sheet_255
+  - first:
+      213: -802391647847312000
+    second: Medieval Townsfolk 3 Sprite Sheet_256
+  - first:
+      213: -2610797144524431627
+    second: Medieval Townsfolk 3 Sprite Sheet_257
+  - first:
+      213: -6851146380367749947
+    second: Medieval Townsfolk 3 Sprite Sheet_258
+  - first:
+      213: -140649904743355059
+    second: Medieval Townsfolk 3 Sprite Sheet_259
+  - first:
+      213: -8798822412832118927
+    second: Medieval Townsfolk 3 Sprite Sheet_260
+  - first:
+      213: 1803295279227786747
+    second: Medieval Townsfolk 3 Sprite Sheet_261
+  - first:
+      213: 7663503002806243096
+    second: Medieval Townsfolk 3 Sprite Sheet_262
+  - first:
+      213: -7714882842153566503
+    second: Medieval Townsfolk 3 Sprite Sheet_263
+  - first:
+      213: 9051665706536568763
+    second: Medieval Townsfolk 3 Sprite Sheet_264
+  - first:
+      213: 5009134803357010548
+    second: Medieval Townsfolk 3 Sprite Sheet_265
+  - first:
+      213: -9082218557628204430
+    second: Medieval Townsfolk 3 Sprite Sheet_266
+  - first:
+      213: 3538086921473217321
+    second: Medieval Townsfolk 3 Sprite Sheet_267
+  - first:
+      213: 1434884588513585445
+    second: Medieval Townsfolk 3 Sprite Sheet_268
+  - first:
+      213: 4858406868049774084
+    second: Medieval Townsfolk 3 Sprite Sheet_269
+  - first:
+      213: -5049591538509004461
+    second: Medieval Townsfolk 3 Sprite Sheet_270
+  - first:
+      213: -8385709734410920843
+    second: Medieval Townsfolk 3 Sprite Sheet_271
+  - first:
+      213: -7377571442369808345
+    second: Medieval Townsfolk 3 Sprite Sheet_272
+  - first:
+      213: -2164741620940183859
+    second: Medieval Townsfolk 3 Sprite Sheet_273
+  - first:
+      213: -1603791966033279690
+    second: Medieval Townsfolk 3 Sprite Sheet_274
+  - first:
+      213: 6801351024698840944
+    second: Medieval Townsfolk 3 Sprite Sheet_275
+  - first:
+      213: 4868643287252655812
+    second: Medieval Townsfolk 3 Sprite Sheet_276
+  - first:
+      213: -6311362635860910017
+    second: Medieval Townsfolk 3 Sprite Sheet_277
+  - first:
+      213: -2406257635412299480
+    second: Medieval Townsfolk 3 Sprite Sheet_278
+  - first:
+      213: -1259070280954783518
+    second: Medieval Townsfolk 3 Sprite Sheet_279
+  - first:
+      213: 4992291803601822268
+    second: Medieval Townsfolk 3 Sprite Sheet_280
+  - first:
+      213: 2280412933243610236
+    second: Medieval Townsfolk 3 Sprite Sheet_281
+  - first:
+      213: -839860369874159684
+    second: Medieval Townsfolk 3 Sprite Sheet_282
+  - first:
+      213: -2523460169592854549
+    second: Medieval Townsfolk 3 Sprite Sheet_283
+  - first:
+      213: 2946264896966948696
+    second: Medieval Townsfolk 3 Sprite Sheet_284
+  - first:
+      213: 8371617737277575790
+    second: Medieval Townsfolk 3 Sprite Sheet_285
+  - first:
+      213: 8554191672989717395
+    second: Medieval Townsfolk 3 Sprite Sheet_286
+  - first:
+      213: 4708959410721173685
+    second: Medieval Townsfolk 3 Sprite Sheet_287
+  - first:
+      213: 3311167406962532410
+    second: Medieval Townsfolk 3 Sprite Sheet_288
+  - first:
+      213: 1340304520641228315
+    second: Medieval Townsfolk 3 Sprite Sheet_289
+  - first:
+      213: -3472998427145966300
+    second: Medieval Townsfolk 3 Sprite Sheet_290
+  - first:
+      213: 841202754556396345
+    second: Medieval Townsfolk 3 Sprite Sheet_291
+  - first:
+      213: -6910158354000740456
+    second: Medieval Townsfolk 3 Sprite Sheet_292
+  - first:
+      213: -7627745491359585687
+    second: Medieval Townsfolk 3 Sprite Sheet_293
+  - first:
+      213: 5601509169834243623
+    second: Medieval Townsfolk 3 Sprite Sheet_294
+  - first:
+      213: 8631118103733246062
+    second: Medieval Townsfolk 3 Sprite Sheet_295
+  - first:
+      213: -1130903636155772706
+    second: Medieval Townsfolk 3 Sprite Sheet_296
+  - first:
+      213: 1010835115159344219
+    second: Medieval Townsfolk 3 Sprite Sheet_297
+  - first:
+      213: -6230708663822974887
+    second: Medieval Townsfolk 3 Sprite Sheet_298
+  - first:
+      213: -1353280231406370058
+    second: Medieval Townsfolk 3 Sprite Sheet_299
+  - first:
+      213: -413264433509593450
+    second: Medieval Townsfolk 3 Sprite Sheet_300
+  - first:
+      213: -4457079762838740961
+    second: Medieval Townsfolk 3 Sprite Sheet_301
+  - first:
+      213: -7236098458318849247
+    second: Medieval Townsfolk 3 Sprite Sheet_302
+  - first:
+      213: -4900660153059064424
+    second: Medieval Townsfolk 3 Sprite Sheet_303
+  - first:
+      213: 1441365220242271559
+    second: Medieval Townsfolk 3 Sprite Sheet_304
+  - first:
+      213: -7324060846724219087
+    second: Medieval Townsfolk 3 Sprite Sheet_305
+  - first:
+      213: 7853568586295859673
+    second: Medieval Townsfolk 3 Sprite Sheet_306
+  - first:
+      213: 981618575636021876
+    second: Medieval Townsfolk 3 Sprite Sheet_307
+  - first:
+      213: -806280891344848187
+    second: Medieval Townsfolk 3 Sprite Sheet_308
+  - first:
+      213: -905945503107099539
+    second: Medieval Townsfolk 3 Sprite Sheet_309
+  - first:
+      213: 2967326168106195872
+    second: Medieval Townsfolk 3 Sprite Sheet_310
+  - first:
+      213: 1845715868609138204
+    second: Medieval Townsfolk 3 Sprite Sheet_311
+  - first:
+      213: 474130641319744846
+    second: Medieval Townsfolk 3 Sprite Sheet_312
+  - first:
+      213: 7953332229428499205
+    second: Medieval Townsfolk 3 Sprite Sheet_313
+  - first:
+      213: -8981302847473135346
+    second: Medieval Townsfolk 3 Sprite Sheet_314
+  - first:
+      213: 8038591164595370367
+    second: Medieval Townsfolk 3 Sprite Sheet_315
+  - first:
+      213: -4702722790165105116
+    second: Medieval Townsfolk 3 Sprite Sheet_316
+  - first:
+      213: 8785531958960374438
+    second: Medieval Townsfolk 3 Sprite Sheet_317
+  - first:
+      213: -453097202579016025
+    second: Medieval Townsfolk 3 Sprite Sheet_318
+  - first:
+      213: 5001273593515550384
+    second: Medieval Townsfolk 3 Sprite Sheet_319
+  - first:
+      213: -3170775699691655446
+    second: Medieval Townsfolk 3 Sprite Sheet_320
+  - first:
+      213: 8109220473254752975
+    second: Medieval Townsfolk 3 Sprite Sheet_321
+  - first:
+      213: 3195960118718897860
+    second: Medieval Townsfolk 3 Sprite Sheet_322
+  - first:
+      213: -738133231189755142
+    second: Medieval Townsfolk 3 Sprite Sheet_323
+  - first:
+      213: -8637508590712815996
+    second: Medieval Townsfolk 3 Sprite Sheet_324
+  - first:
+      213: 5503392025378791819
+    second: Medieval Townsfolk 3 Sprite Sheet_325
+  - first:
+      213: -2759349359490871560
+    second: Medieval Townsfolk 3 Sprite Sheet_326
+  - first:
+      213: -7420831016335094254
+    second: Medieval Townsfolk 3 Sprite Sheet_327
+  - first:
+      213: -8344010516473241572
+    second: Medieval Townsfolk 3 Sprite Sheet_328
+  - first:
+      213: -2961387072728176149
+    second: Medieval Townsfolk 3 Sprite Sheet_329
+  - first:
+      213: -2651199431567914155
+    second: Medieval Townsfolk 3 Sprite Sheet_330
+  - first:
+      213: -6750195465106090891
+    second: Medieval Townsfolk 3 Sprite Sheet_331
+  - first:
+      213: -4502283352577277354
+    second: Medieval Townsfolk 3 Sprite Sheet_332
+  - first:
+      213: 5831262839930899046
+    second: Medieval Townsfolk 3 Sprite Sheet_333
+  - first:
+      213: -5658882740916641285
+    second: Medieval Townsfolk 3 Sprite Sheet_334
+  - first:
+      213: -585437224568314271
+    second: Medieval Townsfolk 3 Sprite Sheet_335
+  - first:
+      213: -928528247088378920
+    second: Medieval Townsfolk 3 Sprite Sheet_336
+  - first:
+      213: -1946462901988814782
+    second: Medieval Townsfolk 3 Sprite Sheet_337
+  - first:
+      213: -668119931084552379
+    second: Medieval Townsfolk 3 Sprite Sheet_338
+  - first:
+      213: 5873812382744202853
+    second: Medieval Townsfolk 3 Sprite Sheet_339
+  - first:
+      213: -5484754776279384743
+    second: Medieval Townsfolk 3 Sprite Sheet_340
+  - first:
+      213: 1035080938547232856
+    second: Medieval Townsfolk 3 Sprite Sheet_341
+  - first:
+      213: -4684849705645360040
+    second: Medieval Townsfolk 3 Sprite Sheet_342
+  - first:
+      213: 5203646265656701335
+    second: Medieval Townsfolk 3 Sprite Sheet_343
+  - first:
+      213: 3658525789414818587
+    second: Medieval Townsfolk 3 Sprite Sheet_344
+  - first:
+      213: -7078247978209983033
+    second: Medieval Townsfolk 3 Sprite Sheet_345
+  - first:
+      213: -7203382306211981651
+    second: Medieval Townsfolk 3 Sprite Sheet_346
+  - first:
+      213: -4458250385487511719
+    second: Medieval Townsfolk 3 Sprite Sheet_347
+  - first:
+      213: -5115529604223141678
+    second: Medieval Townsfolk 3 Sprite Sheet_348
+  - first:
+      213: 805035234707479516
+    second: Medieval Townsfolk 3 Sprite Sheet_349
+  - first:
+      213: 94233469049675535
+    second: Medieval Townsfolk 3 Sprite Sheet_350
+  - first:
+      213: -6323105210897414329
+    second: Medieval Townsfolk 3 Sprite Sheet_351
+  - first:
+      213: -2330786728289252089
+    second: Medieval Townsfolk 3 Sprite Sheet_352
+  - first:
+      213: -2144635960297924846
+    second: Medieval Townsfolk 3 Sprite Sheet_353
+  - first:
+      213: -8834586061199368587
+    second: Medieval Townsfolk 3 Sprite Sheet_354
+  - first:
+      213: 5571918148713115587
+    second: Medieval Townsfolk 3 Sprite Sheet_355
+  - first:
+      213: 6901874548182435300
+    second: Medieval Townsfolk 3 Sprite Sheet_356
+  - first:
+      213: 1455457299316313
+    second: Medieval Townsfolk 3 Sprite Sheet_357
+  - first:
+      213: -6354987747936460063
+    second: Medieval Townsfolk 3 Sprite Sheet_358
+  - first:
+      213: 8000960056886282251
+    second: Medieval Townsfolk 3 Sprite Sheet_359
+  - first:
+      213: 7831076512146404830
+    second: Medieval Townsfolk 3 Sprite Sheet_360
+  - first:
+      213: 2530191435429507565
+    second: Medieval Townsfolk 3 Sprite Sheet_361
+  - first:
+      213: 6574029736039449444
+    second: Medieval Townsfolk 3 Sprite Sheet_362
+  - first:
+      213: -1067145903798756711
+    second: Medieval Townsfolk 3 Sprite Sheet_363
+  - first:
+      213: 4106773655818024651
+    second: Medieval Townsfolk 3 Sprite Sheet_364
+  - first:
+      213: 8580584396910861188
+    second: Medieval Townsfolk 3 Sprite Sheet_365
+  - first:
+      213: -2696206529184645561
+    second: Medieval Townsfolk 3 Sprite Sheet_366
+  - first:
+      213: 7311527466841347959
+    second: Medieval Townsfolk 3 Sprite Sheet_367
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 448
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f29bf691cd53100800000000000000
+      internalID: 87217769610293002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 448
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e806260febe786a0800000000000000
+      internalID: -6446924929724708638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 448
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1493a63b1e1511500800000000000000
+      internalID: 365163074613295425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 448
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ae3394a14a6040800000000000000
+      internalID: 4641594541059516850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 416
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec85e90623cf2a0800000000000000
+      internalID: -6702426754879271243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 416
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce23967905e22a20800000000000000
+      internalID: 3036240927607959233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 416
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e727f895b7958e80800000000000000
+      internalID: -8176962742210058271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 416
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0568c3465985a9d0800000000000000
+      internalID: -2763651792724531958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 384
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740afae4863136c0800000000000000
+      internalID: -4165488235835161482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 384
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27646ceca9d7f590800000000000000
+      internalID: -7640398906087151830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 384
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2eb1f28586d8dc0800000000000000
+      internalID: -3635134596261354812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 384
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6712d990dc5fba2c0800000000000000
+      internalID: -4419168348355616394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 352
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372604079c2bbbe30800000000000000
+      internalID: 4520403229237863027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 352
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f873df4f4ec9598f0800000000000000
+      internalID: -534348473596823665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 352
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53938603765571f80800000000000000
+      internalID: -8135940300139382475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 352
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc307ae920ecda0800000000000000
+      internalID: -5922793579515491168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 352
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b870ff3c880910800000000000000
+      internalID: 1803845857007153735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 352
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c1b3fc1884a080800000000000000
+      internalID: -9177060482745252259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 352
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec11b9cb5fe0e560800000000000000
+      internalID: 7341130570118798571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 352
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc51b2ba8334428a0800000000000000
+      internalID: -6330861265507117621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 320
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852bb9025d6286390800000000000000
+      internalID: -7824961655739272616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290905f08ad25ee0800000000000000
+      internalID: -1273715497190749916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 320
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c65d7bf26d4067c0800000000000000
+      internalID: -4080176174876240192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 320
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df9ace73b33246e0800000000000000
+      internalID: -1854863250503852076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe06fb0d95ca0a40800000000000000
+      internalID: 5335293986874986233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 288
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f9647a79932490800000000000000
+      internalID: -7772199780693182798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdbe380464879590800000000000000
+      internalID: -7667514275405054518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 288
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e330604905fbc0e0800000000000000
+      internalID: -2248434168857873439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605407e12b34b9750800000000000000
+      internalID: 6312713734983795974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9250000a32d1c0800000000000000
+      internalID: -4480454907600396792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be048e2e906d9ec80800000000000000
+      internalID: -8292861900876136213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 258
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae804402a474f89d0800000000000000
+      internalID: -2769916862115084054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006add1417274b210800000000000000
+      internalID: 1347828019252536832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 257
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cf35dac746d83e0800000000000000
+      internalID: -2049871768737022927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bffaa830526a110800000000000000
+      internalID: 1271744641920662410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 257
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07466913e854ae0800000000000000
+      internalID: -1565688951813672723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ed8445250e33c0800000000000000
+      internalID: -4378056130135465941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 226
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e20699948aea40800000000000000
+      internalID: 5398272898538594399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919ab4b290d392b0800000000000000
+      internalID: -5578886184865984112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 226
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce320c76f8b59f00800000000000000
+      internalID: 1123007050880794311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e180d0c5432a210800000000000000
+      internalID: 1342693208870100481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 225
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6300c9eaea10d80800000000000000
+      internalID: -8286149774420199716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fedeb996578590800000000000000
+      internalID: -7672068221870083502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 225
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c57d9ea275cb160800000000000000
+      internalID: 7042599759124061185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54375f1aafe1abb0800000000000000
+      internalID: -4926393003417324449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f486446217f64a0800000000000000
+      internalID: -6597930519904104683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1473835f8c698a50800000000000000
+      internalID: 6523864898060121119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e689632f4d7d500800000000000000
+      internalID: 421039226945564193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf94aa1abab6f60800000000000000
+      internalID: 8028699471553100501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848db02b413d74380800000000000000
+      internalID: -8986982445554608056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2fd27948098e560800000000000000
+      internalID: 7343278091574047399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3333c0522134d0800000000000000
+      internalID: -3156704133542364280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc31da84570bbd0800000000000000
+      internalID: -2616462428500406462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0038f4471956c990800000000000000
+      internalID: -7366102184041631729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 160
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40240f700a4263c0800000000000000
+      internalID: -4367847322604527541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd12dcc0ae36620800000000000000
+      internalID: 2766311936837671913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2652b2055cc193a0800000000000000
+      internalID: -6660317708414724561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb1920d0cc91230800000000000000
+      internalID: 3610140932563910294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2142ee008f57ca0800000000000000
+      internalID: -6019632644031769949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d030bb37841d20800000000000000
+      internalID: 3248369921669779840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bba9c51a9eed3c0800000000000000
+      internalID: -4332768912231187612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f54b24f4b5a8b0a0800000000000000
+      internalID: -6865555435317148168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e065c910512c3c0800000000000000
+      internalID: -4340883994169700712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2339bb11965f7d0800000000000000
+      internalID: -2885284461378587999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0af04766d991e0800000000000000
+      internalID: -2190484004778930294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 99
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfea6adaa284cd80800000000000000
+      internalID: -8231310548605931588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 101
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4cb5cf4d30d7f20800000000000000
+      internalID: 3421895505173267628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 99
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0c0c942de3ca90800000000000000
+      internalID: -7294726229917430224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 96
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6313f81ab54f8690800000000000000
+      internalID: -7597777380765920401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 98
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1583a8bb8c0bfde0800000000000000
+      internalID: -1298430273328544482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3f7d4fc83df0f80800000000000000
+      internalID: -8138053399278521382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 98
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ff40bb0ec4b130800000000000000
+      internalID: 3581714153264378942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03338b19ccc5f75f0800000000000000
+      internalID: -756784178687102160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cac083a8cd31c80800000000000000
+      internalID: -8353090397638185863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 69
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d35e0c620bea7100800000000000000
+      internalID: 106655936831968213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8519f0dff02440800000000000000
+      internalID: 4909204866831060236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05f7e8dc3244040800000000000000
+      internalID: 4630865682609688817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c5d177cdfe36b0800000000000000
+      internalID: -5314531477200451567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 68
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50674d5ab261470800000000000000
+      internalID: 8364921349121377722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 66
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c151c487d691865a0800000000000000
+      internalID: -6527939701913152228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 32
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263224986a49eafc0800000000000000
+      internalID: -3481682018922519710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e983f3795fde5c0800000000000000
+      internalID: -4184418448807780783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe300fd2bae58d0800000000000000
+      internalID: -2855656899917647929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c98f741f4f2db0800000000000000
+      internalID: -4814542527178096338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81468b42f538d6850800000000000000
+      internalID: 6371893492460315672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906d2326897561d0800000000000000
+      internalID: -3358144330112081776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb3c60cd81b8410800000000000000
+      internalID: 1480304235806702623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a44887d4cfd77a70800000000000000
+      internalID: 8824768031378392230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ac263b651e6b20800000000000000
+      internalID: 3129462341283652093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eced69e38486e8720800000000000000
+      internalID: 2850330273669111502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c07eb107c9aa0a0800000000000000
+      internalID: -6869506276281873406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Townsfolk 3 Sprite Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294f894cfcdd8e4d0800000000000000
+      internalID: -3104988058645629806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

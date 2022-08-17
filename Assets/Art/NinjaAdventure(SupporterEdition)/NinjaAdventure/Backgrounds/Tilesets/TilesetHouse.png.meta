@@ -1,0 +1,3893 @@
+fileFormatVersion: 2
+guid: be7c245cd3c930c408088e160f33cbc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3278226434802068603
+    second: TilesetHouse_0
+  - first:
+      213: -4860273865661983898
+    second: TilesetHouse_1
+  - first:
+      213: 2818596462216581815
+    second: TilesetHouse_2
+  - first:
+      213: 6631818491276816676
+    second: TilesetHouse_3
+  - first:
+      213: -2543577432873488079
+    second: TilesetHouse_4
+  - first:
+      213: 8918722681927090209
+    second: TilesetHouse_5
+  - first:
+      213: -6380634825485801784
+    second: TilesetHouse_6
+  - first:
+      213: 2621549743263025007
+    second: TilesetHouse_7
+  - first:
+      213: 571124544331840101
+    second: TilesetHouse_8
+  - first:
+      213: 6105578407987655798
+    second: TilesetHouse_9
+  - first:
+      213: 5867180157180488104
+    second: TilesetHouse_10
+  - first:
+      213: -2344913512963965630
+    second: TilesetHouse_11
+  - first:
+      213: 6321883920903835643
+    second: TilesetHouse_12
+  - first:
+      213: -3369710678066932219
+    second: TilesetHouse_13
+  - first:
+      213: -2120070085413680913
+    second: TilesetHouse_14
+  - first:
+      213: -2570171234850243767
+    second: TilesetHouse_15
+  - first:
+      213: 6703208604283922957
+    second: TilesetHouse_16
+  - first:
+      213: -2598196079921578069
+    second: TilesetHouse_17
+  - first:
+      213: 450934652089197434
+    second: TilesetHouse_18
+  - first:
+      213: 1089036382699909
+    second: TilesetHouse_19
+  - first:
+      213: 7173171451599477555
+    second: TilesetHouse_20
+  - first:
+      213: -1864925588056809077
+    second: TilesetHouse_21
+  - first:
+      213: -52919607593441993
+    second: TilesetHouse_22
+  - first:
+      213: 4659938761509250804
+    second: TilesetHouse_23
+  - first:
+      213: -7421208662120292724
+    second: TilesetHouse_24
+  - first:
+      213: -1009978144316602100
+    second: TilesetHouse_25
+  - first:
+      213: 6024383690369061729
+    second: TilesetHouse_26
+  - first:
+      213: 4951511108071956239
+    second: TilesetHouse_27
+  - first:
+      213: -7104430821431967399
+    second: TilesetHouse_28
+  - first:
+      213: -8711278158783111235
+    second: TilesetHouse_29
+  - first:
+      213: 773351611610282950
+    second: TilesetHouse_30
+  - first:
+      213: 1085182976597559715
+    second: TilesetHouse_31
+  - first:
+      213: 6487378401544186804
+    second: TilesetHouse_32
+  - first:
+      213: -2343594398958889671
+    second: TilesetHouse_33
+  - first:
+      213: -5219589576015606001
+    second: TilesetHouse_34
+  - first:
+      213: 664371442735801057
+    second: TilesetHouse_35
+  - first:
+      213: -6812599268664040299
+    second: TilesetHouse_36
+  - first:
+      213: 4330596851005714117
+    second: TilesetHouse_37
+  - first:
+      213: 1703769542709039302
+    second: TilesetHouse_38
+  - first:
+      213: -7106673492209672880
+    second: TilesetHouse_39
+  - first:
+      213: -5180848942277802514
+    second: TilesetHouse_40
+  - first:
+      213: 3874526514409601685
+    second: TilesetHouse_41
+  - first:
+      213: 3680286077143787233
+    second: TilesetHouse_42
+  - first:
+      213: -5302441569841205048
+    second: TilesetHouse_43
+  - first:
+      213: -2212696960738261672
+    second: TilesetHouse_44
+  - first:
+      213: -8617621394736768260
+    second: TilesetHouse_45
+  - first:
+      213: -3796528802823776496
+    second: TilesetHouse_46
+  - first:
+      213: -7162553176559404084
+    second: TilesetHouse_47
+  - first:
+      213: 7051215623277376686
+    second: TilesetHouse_48
+  - first:
+      213: 6215987618809819496
+    second: TilesetHouse_49
+  - first:
+      213: 6131483866704831448
+    second: TilesetHouse_50
+  - first:
+      213: 5256681778365505562
+    second: TilesetHouse_51
+  - first:
+      213: 8428938927998386675
+    second: TilesetHouse_52
+  - first:
+      213: 7585876985501166598
+    second: TilesetHouse_53
+  - first:
+      213: 5833358132445348528
+    second: TilesetHouse_54
+  - first:
+      213: 6480889657358775742
+    second: TilesetHouse_55
+  - first:
+      213: 7188139889405088006
+    second: TilesetHouse_56
+  - first:
+      213: 8394056028361906349
+    second: TilesetHouse_57
+  - first:
+      213: -6545111067535640816
+    second: TilesetHouse_58
+  - first:
+      213: 543653246535062974
+    second: TilesetHouse_59
+  - first:
+      213: 8325405340583568881
+    second: TilesetHouse_60
+  - first:
+      213: 1519549288819152735
+    second: TilesetHouse_61
+  - first:
+      213: -6930654707579461889
+    second: TilesetHouse_62
+  - first:
+      213: 6732736908811566382
+    second: TilesetHouse_63
+  - first:
+      213: -5116226219705898605
+    second: TilesetHouse_64
+  - first:
+      213: 1882948890009117413
+    second: TilesetHouse_65
+  - first:
+      213: 2832048002374625627
+    second: TilesetHouse_66
+  - first:
+      213: -694370690074177539
+    second: TilesetHouse_67
+  - first:
+      213: 3229902646547084491
+    second: TilesetHouse_68
+  - first:
+      213: 1377699870786369482
+    second: TilesetHouse_69
+  - first:
+      213: -4735433372370521077
+    second: TilesetHouse_70
+  - first:
+      213: -986462156891962111
+    second: TilesetHouse_71
+  - first:
+      213: 4291244867296752385
+    second: TilesetHouse_72
+  - first:
+      213: 1644817809474699712
+    second: TilesetHouse_73
+  - first:
+      213: 7839254628329710723
+    second: TilesetHouse_74
+  - first:
+      213: 8692462906062288463
+    second: TilesetHouse_75
+  - first:
+      213: -8506182671279910505
+    second: TilesetHouse_76
+  - first:
+      213: -7689867270451230053
+    second: TilesetHouse_77
+  - first:
+      213: -43357127695121213
+    second: TilesetHouse_78
+  - first:
+      213: -5959890112767819909
+    second: TilesetHouse_79
+  - first:
+      213: 5649738900692418911
+    second: TilesetHouse_80
+  - first:
+      213: -6591077277493894884
+    second: TilesetHouse_81
+  - first:
+      213: -1054463831723198869
+    second: TilesetHouse_82
+  - first:
+      213: -8841276754088466660
+    second: TilesetHouse_83
+  - first:
+      213: -6103259514657009318
+    second: TilesetHouse_84
+  - first:
+      213: -6315993822990204745
+    second: TilesetHouse_85
+  - first:
+      213: -5460205001969314715
+    second: TilesetHouse_86
+  - first:
+      213: 1772568063289852497
+    second: TilesetHouse_87
+  - first:
+      213: 4797635176313882319
+    second: TilesetHouse_88
+  - first:
+      213: 5392519966873987011
+    second: TilesetHouse_89
+  - first:
+      213: -1557064673029620960
+    second: TilesetHouse_90
+  - first:
+      213: -868876930246174395
+    second: TilesetHouse_91
+  - first:
+      213: -2852851421542373660
+    second: TilesetHouse_92
+  - first:
+      213: 7502728398910056964
+    second: TilesetHouse_93
+  - first:
+      213: -4904210873063148904
+    second: TilesetHouse_94
+  - first:
+      213: 5193561575404068292
+    second: TilesetHouse_95
+  - first:
+      213: 3848149069718414581
+    second: TilesetHouse_96
+  - first:
+      213: -8529358627349449895
+    second: TilesetHouse_97
+  - first:
+      213: -3839457623001669947
+    second: TilesetHouse_98
+  - first:
+      213: 4141769349807839371
+    second: TilesetHouse_99
+  - first:
+      213: -2934688102673221207
+    second: TilesetHouse_100
+  - first:
+      213: -6421993381334414717
+    second: TilesetHouse_101
+  - first:
+      213: -9207790343860123269
+    second: TilesetHouse_102
+  - first:
+      213: -8722279028865671058
+    second: TilesetHouse_103
+  - first:
+      213: 665130687627361449
+    second: TilesetHouse_104
+  - first:
+      213: 395481306724217880
+    second: TilesetHouse_105
+  - first:
+      213: -2923944928307502100
+    second: TilesetHouse_106
+  - first:
+      213: 7780826703257039816
+    second: TilesetHouse_107
+  - first:
+      213: 6384080073161161734
+    second: TilesetHouse_108
+  - first:
+      213: 4614658752072687613
+    second: TilesetHouse_109
+  - first:
+      213: -6517130736847463256
+    second: TilesetHouse_110
+  - first:
+      213: 2091444528657288813
+    second: TilesetHouse_111
+  - first:
+      213: -1271041533679752880
+    second: TilesetHouse_112
+  - first:
+      213: 8162868848406126160
+    second: TilesetHouse_113
+  - first:
+      213: -7870350000291421676
+    second: TilesetHouse_114
+  - first:
+      213: -5576605995354803131
+    second: TilesetHouse_115
+  - first:
+      213: 907425886425920722
+    second: TilesetHouse_116
+  - first:
+      213: -9023153839990426303
+    second: TilesetHouse_117
+  - first:
+      213: -899895863471465750
+    second: TilesetHouse_118
+  - first:
+      213: -2000999949488561657
+    second: TilesetHouse_119
+  - first:
+      213: -2719343400370433763
+    second: TilesetHouse_120
+  - first:
+      213: -4820794369015755123
+    second: TilesetHouse_121
+  - first:
+      213: -6857742981173086643
+    second: TilesetHouse_122
+  - first:
+      213: 8723806521053059202
+    second: TilesetHouse_123
+  - first:
+      213: -3205609445530900046
+    second: TilesetHouse_124
+  - first:
+      213: 6424776998764103670
+    second: TilesetHouse_125
+  - first:
+      213: 1966541815735872090
+    second: TilesetHouse_126
+  - first:
+      213: -3256580426927168057
+    second: TilesetHouse_127
+  - first:
+      213: -1174556958653024566
+    second: TilesetHouse_128
+  - first:
+      213: 5886299473818683090
+    second: TilesetHouse_129
+  - first:
+      213: -2017106316472472519
+    second: TilesetHouse_130
+  - first:
+      213: 8229480031772499310
+    second: TilesetHouse_131
+  - first:
+      213: 3568696615794581184
+    second: TilesetHouse_132
+  - first:
+      213: -7766759712992638394
+    second: TilesetHouse_133
+  - first:
+      213: 5891886071991320453
+    second: TilesetHouse_134
+  - first:
+      213: -2764522843866632811
+    second: TilesetHouse_135
+  - first:
+      213: 7766115905825877623
+    second: TilesetHouse_136
+  - first:
+      213: -5524032145902360517
+    second: TilesetHouse_137
+  - first:
+      213: -2162076761056038025
+    second: TilesetHouse_138
+  - first:
+      213: 2591592471155769494
+    second: TilesetHouse_139
+  - first:
+      213: -1595404124214944181
+    second: TilesetHouse_140
+  - first:
+      213: -792063391010756079
+    second: TilesetHouse_141
+  - first:
+      213: 7143345402489291120
+    second: TilesetHouse_142
+  - first:
+      213: -6895362821541643617
+    second: TilesetHouse_143
+  - first:
+      213: 3570387775380620336
+    second: TilesetHouse_144
+  - first:
+      213: -51239217291427738
+    second: TilesetHouse_145
+  - first:
+      213: -1198798522629799382
+    second: TilesetHouse_146
+  - first:
+      213: -545906446678692669
+    second: TilesetHouse_147
+  - first:
+      213: -1687728453434419307
+    second: TilesetHouse_148
+  - first:
+      213: 2522471649576326065
+    second: TilesetHouse_149
+  - first:
+      213: 8945473846237398116
+    second: TilesetHouse_150
+  - first:
+      213: 1144710865083230434
+    second: TilesetHouse_151
+  - first:
+      213: -8375338112730508520
+    second: TilesetHouse_152
+  - first:
+      213: 5810122333585577224
+    second: TilesetHouse_153
+  - first:
+      213: -4193240138295455180
+    second: TilesetHouse_154
+  - first:
+      213: 6676543571545163986
+    second: TilesetHouse_155
+  - first:
+      213: 557375902305689286
+    second: TilesetHouse_156
+  - first:
+      213: 2721598674547977544
+    second: TilesetHouse_157
+  - first:
+      213: 7788524747085426674
+    second: TilesetHouse_158
+  - first:
+      213: 1709232668336123942
+    second: TilesetHouse_159
+  - first:
+      213: -6261274031791049771
+    second: TilesetHouse_160
+  - first:
+      213: -6096397705304152871
+    second: TilesetHouse_161
+  - first:
+      213: 1221491789508766311
+    second: TilesetHouse_162
+  - first:
+      213: 8021928234383929385
+    second: TilesetHouse_163
+  - first:
+      213: -1697228291176172885
+    second: TilesetHouse_164
+  - first:
+      213: 7672384116402789653
+    second: TilesetHouse_165
+  - first:
+      213: 4087077194806040598
+    second: TilesetHouse_166
+  - first:
+      213: -7310835250990954056
+    second: TilesetHouse_167
+  - first:
+      213: 654450961093231248
+    second: TilesetHouse_168
+  - first:
+      213: -153265169468385573
+    second: TilesetHouse_169
+  - first:
+      213: -194572066879854082
+    second: TilesetHouse_170
+  - first:
+      213: 3883444075604418121
+    second: TilesetHouse_171
+  - first:
+      213: 970065975429080800
+    second: TilesetHouse_172
+  - first:
+      213: -420734560723354791
+    second: TilesetHouse_173
+  - first:
+      213: -1477990489987107079
+    second: TilesetHouse_174
+  - first:
+      213: -419042445325172198
+    second: TilesetHouse_175
+  - first:
+      213: -182137864224872103
+    second: TilesetHouse_176
+  - first:
+      213: 5304347864938133569
+    second: TilesetHouse_177
+  - first:
+      213: 8050493119634066453
+    second: TilesetHouse_178
+  - first:
+      213: -768378878115926739
+    second: TilesetHouse_179
+  - first:
+      213: 3733473455502549132
+    second: TilesetHouse_180
+  - first:
+      213: -97385970433543324
+    second: TilesetHouse_181
+  - first:
+      213: 1065305902583851230
+    second: TilesetHouse_182
+  - first:
+      213: 439833748731080299
+    second: TilesetHouse_183
+  - first:
+      213: -4666492799098571070
+    second: TilesetHouse_184
+  - first:
+      213: -963894685534268425
+    second: TilesetHouse_185
+  - first:
+      213: -8559294610169779423
+    second: TilesetHouse_186
+  - first:
+      213: 5655736367246813928
+    second: TilesetHouse_187
+  - first:
+      213: -8675371868079664375
+    second: TilesetHouse_188
+  - first:
+      213: -8295004446391212156
+    second: TilesetHouse_189
+  - first:
+      213: -4970577293692173067
+    second: TilesetHouse_190
+  - first:
+      213: -1271431267458813403
+    second: TilesetHouse_191
+  - first:
+      213: -8945607215101009506
+    second: TilesetHouse_192
+  - first:
+      213: 5350439512034323016
+    second: TilesetHouse_193
+  - first:
+      213: -6178300901354547856
+    second: TilesetHouse_194
+  - first:
+      213: 3842813202574769155
+    second: TilesetHouse_195
+  - first:
+      213: 1159242797250302430
+    second: TilesetHouse_196
+  - first:
+      213: -5803933554521499634
+    second: TilesetHouse_197
+  - first:
+      213: 1059269064878724011
+    second: TilesetHouse_198
+  - first:
+      213: -3730289785519086236
+    second: TilesetHouse_199
+  - first:
+      213: -4975919462816646840
+    second: TilesetHouse_200
+  - first:
+      213: 683353504954181466
+    second: TilesetHouse_201
+  - first:
+      213: -6816795065254079788
+    second: TilesetHouse_202
+  - first:
+      213: 9076204603637869769
+    second: TilesetHouse_203
+  - first:
+      213: -439394807699955840
+    second: TilesetHouse_204
+  - first:
+      213: 2632169858036023599
+    second: TilesetHouse_205
+  - first:
+      213: -1300922154336022082
+    second: TilesetHouse_206
+  - first:
+      213: -8776963944408481662
+    second: TilesetHouse_207
+  - first:
+      213: 7891666927264150016
+    second: TilesetHouse_208
+  - first:
+      213: -1540270818543852617
+    second: TilesetHouse_209
+  - first:
+      213: 1997170072023768049
+    second: TilesetHouse_210
+  - first:
+      213: -8882443562722249770
+    second: TilesetHouse_211
+  - first:
+      213: 3839007066645559632
+    second: TilesetHouse_212
+  - first:
+      213: -6891248272493915739
+    second: TilesetHouse_213
+  - first:
+      213: 9206344240667099938
+    second: TilesetHouse_214
+  - first:
+      213: 1521788072766782522
+    second: TilesetHouse_215
+  - first:
+      213: 5748256831426665961
+    second: TilesetHouse_216
+  - first:
+      213: -873647361630171468
+    second: TilesetHouse_217
+  - first:
+      213: -2991770279537031116
+    second: TilesetHouse_218
+  - first:
+      213: -5315216553235669935
+    second: TilesetHouse_219
+  - first:
+      213: 6129964936901925326
+    second: TilesetHouse_220
+  - first:
+      213: -511159455081618088
+    second: TilesetHouse_221
+  - first:
+      213: 2356637398853004108
+    second: TilesetHouse_222
+  - first:
+      213: -5786225740322984192
+    second: TilesetHouse_223
+  - first:
+      213: -3096306225532359679
+    second: TilesetHouse_224
+  - first:
+      213: 2298836017129110777
+    second: TilesetHouse_225
+  - first:
+      213: 1094175309537128866
+    second: TilesetHouse_226
+  - first:
+      213: -1285917792774314908
+    second: TilesetHouse_227
+  - first:
+      213: 1724223587931775149
+    second: TilesetHouse_228
+  - first:
+      213: -7240150547658191688
+    second: TilesetHouse_229
+  - first:
+      213: 4408645568123887251
+    second: TilesetHouse_230
+  - first:
+      213: -1751651435548538073
+    second: TilesetHouse_231
+  - first:
+      213: -2198571519050614102
+    second: TilesetHouse_232
+  - first:
+      213: -596513638147032335
+    second: TilesetHouse_233
+  - first:
+      213: 5379120559145782883
+    second: TilesetHouse_234
+  - first:
+      213: 2033140034129320185
+    second: TilesetHouse_235
+  - first:
+      213: 7817307528664573356
+    second: TilesetHouse_236
+  - first:
+      213: -2434343736136822344
+    second: TilesetHouse_237
+  - first:
+      213: -5555669612186627194
+    second: TilesetHouse_238
+  - first:
+      213: 9044221677076494391
+    second: TilesetHouse_239
+  - first:
+      213: -5291144110935311513
+    second: TilesetHouse_240
+  - first:
+      213: 4985368827310578416
+    second: TilesetHouse_241
+  - first:
+      213: -7337423006376799246
+    second: TilesetHouse_242
+  - first:
+      213: -8181263293449894811
+    second: TilesetHouse_243
+  - first:
+      213: 3269385158449679083
+    second: TilesetHouse_244
+  - first:
+      213: -411157604787651147
+    second: TilesetHouse_245
+  - first:
+      213: 6929901147237512993
+    second: TilesetHouse_246
+  - first:
+      213: 1114136482416176090
+    second: TilesetHouse_247
+  - first:
+      213: 8301452871402546498
+    second: TilesetHouse_248
+  - first:
+      213: -6649818167894857325
+    second: TilesetHouse_249
+  - first:
+      213: -6784419083706354823
+    second: TilesetHouse_250
+  - first:
+      213: 5877690515842334176
+    second: TilesetHouse_251
+  - first:
+      213: 7370438571313039478
+    second: TilesetHouse_252
+  - first:
+      213: 2327899168056174013
+    second: TilesetHouse_253
+  - first:
+      213: -2432334493985499942
+    second: TilesetHouse_254
+  - first:
+      213: -6794569189219159175
+    second: TilesetHouse_255
+  - first:
+      213: 3742694603637848861
+    second: TilesetHouse_256
+  - first:
+      213: 5034366231008650570
+    second: TilesetHouse_257
+  - first:
+      213: -3562396303888513368
+    second: TilesetHouse_258
+  - first:
+      213: 4336278606891989305
+    second: TilesetHouse_259
+  - first:
+      213: 7000746641605511021
+    second: TilesetHouse_260
+  - first:
+      213: -8768113863585668274
+    second: TilesetHouse_261
+  - first:
+      213: -7235172481153706218
+    second: TilesetHouse_262
+  - first:
+      213: -4922755196369278218
+    second: TilesetHouse_263
+  - first:
+      213: 1974008714594854072
+    second: TilesetHouse_264
+  - first:
+      213: 5576768871662163557
+    second: TilesetHouse_265
+  - first:
+      213: -7227398219441246790
+    second: TilesetHouse_266
+  - first:
+      213: -5858983949016948669
+    second: TilesetHouse_267
+  - first:
+      213: 2306522694194447586
+    second: TilesetHouse_268
+  - first:
+      213: 1178106101699600894
+    second: TilesetHouse_269
+  - first:
+      213: -8208844921108800094
+    second: TilesetHouse_270
+  - first:
+      213: -6667547703423049565
+    second: TilesetHouse_271
+  - first:
+      213: 6491730565925916041
+    second: TilesetHouse_272
+  - first:
+      213: 8884023821377387311
+    second: TilesetHouse_273
+  - first:
+      213: -7060132645939121999
+    second: TilesetHouse_274
+  - first:
+      213: -5642148918432793049
+    second: TilesetHouse_275
+  - first:
+      213: -7082367950131388874
+    second: TilesetHouse_276
+  - first:
+      213: 2789289580861831805
+    second: TilesetHouse_277
+  - first:
+      213: 3706278684377074258
+    second: TilesetHouse_278
+  - first:
+      213: -2417134974625101837
+    second: TilesetHouse_279
+  - first:
+      213: -3968832050082318650
+    second: TilesetHouse_280
+  - first:
+      213: 2015002192652340834
+    second: TilesetHouse_281
+  - first:
+      213: 92138828180314655
+    second: TilesetHouse_282
+  - first:
+      213: -6178327337112280000
+    second: TilesetHouse_283
+  - first:
+      213: 6335409938215374523
+    second: TilesetHouse_284
+  - first:
+      213: -5599517994312559547
+    second: TilesetHouse_285
+  - first:
+      213: 1605863581675035586
+    second: TilesetHouse_286
+  - first:
+      213: 28892578855958236
+    second: TilesetHouse_287
+  - first:
+      213: -419613501120749689
+    second: TilesetHouse_288
+  - first:
+      213: 6628194961380131163
+    second: TilesetHouse_289
+  - first:
+      213: 5375940573883912789
+    second: TilesetHouse_290
+  - first:
+      213: -7269334011617325050
+    second: TilesetHouse_291
+  - first:
+      213: -5311922903001902520
+    second: TilesetHouse_292
+  - first:
+      213: -2494549575967473637
+    second: TilesetHouse_293
+  - first:
+      213: -1271947608507073613
+    second: TilesetHouse_294
+  - first:
+      213: 3036614009242804435
+    second: TilesetHouse_295
+  - first:
+      213: -4356184181311452071
+    second: TilesetHouse_296
+  - first:
+      213: 1527963279288818240
+    second: TilesetHouse_297
+  - first:
+      213: 293440851712364073
+    second: TilesetHouse_298
+  - first:
+      213: 408325164708007850
+    second: TilesetHouse_299
+  - first:
+      213: -7841121536275847485
+    second: TilesetHouse_300
+  - first:
+      213: 1981620513545874857
+    second: TilesetHouse_301
+  - first:
+      213: 6736105351966364647
+    second: TilesetHouse_302
+  - first:
+      213: -6392266677630487390
+    second: TilesetHouse_303
+  - first:
+      213: 1640073920926788215
+    second: TilesetHouse_304
+  - first:
+      213: -5242392968332262237
+    second: TilesetHouse_305
+  - first:
+      213: 4983902317687141844
+    second: TilesetHouse_306
+  - first:
+      213: -891356331241044402
+    second: TilesetHouse_307
+  - first:
+      213: 3387917115195506046
+    second: TilesetHouse_308
+  - first:
+      213: -686268462235771116
+    second: TilesetHouse_309
+  - first:
+      213: 6217262549740436632
+    second: TilesetHouse_310
+  - first:
+      213: -438111806124039464
+    second: TilesetHouse_311
+  - first:
+      213: 6937450612925849179
+    second: TilesetHouse_312
+  - first:
+      213: -2641822866002354895
+    second: TilesetHouse_313
+  - first:
+      213: -4709008215198219422
+    second: TilesetHouse_314
+  - first:
+      213: 2908503461381170901
+    second: TilesetHouse_315
+  - first:
+      213: 5043140111923804304
+    second: TilesetHouse_316
+  - first:
+      213: 7874536850341843180
+    second: TilesetHouse_317
+  - first:
+      213: -2887981432241417653
+    second: TilesetHouse_318
+  - first:
+      213: 2074609593916365519
+    second: TilesetHouse_319
+  - first:
+      213: -1410351804967432480
+    second: TilesetHouse_320
+  - first:
+      213: 3628420308574108709
+    second: TilesetHouse_321
+  - first:
+      213: -488739908917507787
+    second: TilesetHouse_322
+  - first:
+      213: 5476845527408704702
+    second: TilesetHouse_323
+  - first:
+      213: -5179332403163367716
+    second: TilesetHouse_324
+  - first:
+      213: 2032076145223003657
+    second: TilesetHouse_325
+  - first:
+      213: -8653328517076675078
+    second: TilesetHouse_326
+  - first:
+      213: -4960082609851802898
+    second: TilesetHouse_327
+  - first:
+      213: 6966202325769184635
+    second: TilesetHouse_328
+  - first:
+      213: -5840011924735204039
+    second: TilesetHouse_329
+  - first:
+      213: -4465664909097932664
+    second: TilesetHouse_330
+  - first:
+      213: -2838590660747983364
+    second: TilesetHouse_331
+  - first:
+      213: -4658733588739475819
+    second: TilesetHouse_332
+  - first:
+      213: -6514378421097731170
+    second: TilesetHouse_333
+  - first:
+      213: 7069101397449671441
+    second: TilesetHouse_334
+  - first:
+      213: -1964900643798850111
+    second: TilesetHouse_335
+  - first:
+      213: 6104611527524571028
+    second: TilesetHouse_336
+  - first:
+      213: -7477724330171115346
+    second: TilesetHouse_337
+  - first:
+      213: -1183919025507774728
+    second: TilesetHouse_338
+  - first:
+      213: -2605678361277313745
+    second: TilesetHouse_339
+  - first:
+      213: 2514958214542478947
+    second: TilesetHouse_340
+  - first:
+      213: 4288292899838253222
+    second: TilesetHouse_341
+  - first:
+      213: 6767388573083892539
+    second: TilesetHouse_342
+  - first:
+      213: 755778483830634365
+    second: TilesetHouse_343
+  - first:
+      213: -4185348771343973771
+    second: TilesetHouse_344
+  - first:
+      213: 9157701408753138652
+    second: TilesetHouse_345
+  - first:
+      213: -5843106279778959086
+    second: TilesetHouse_346
+  - first:
+      213: -6481040115778183498
+    second: TilesetHouse_347
+  - first:
+      213: -557047178947772715
+    second: TilesetHouse_348
+  - first:
+      213: -5806139418188610061
+    second: TilesetHouse_349
+  - first:
+      213: 1552949002317741470
+    second: TilesetHouse_350
+  - first:
+      213: -309065105084640670
+    second: TilesetHouse_351
+  - first:
+      213: 4766922876121313211
+    second: TilesetHouse_352
+  - first:
+      213: -1544614925027527605
+    second: TilesetHouse_353
+  - first:
+      213: -8115044246866401068
+    second: TilesetHouse_354
+  - first:
+      213: -4380984846067748983
+    second: TilesetHouse_355
+  - first:
+      213: -5107950148159709082
+    second: TilesetHouse_356
+  - first:
+      213: 8053671335932932630
+    second: TilesetHouse_357
+  - first:
+      213: -7179623021817751821
+    second: TilesetHouse_358
+  - first:
+      213: -1415633774940633987
+    second: TilesetHouse_359
+  - first:
+      213: 127528132528587806
+    second: TilesetHouse_360
+  - first:
+      213: -5902147646795302867
+    second: TilesetHouse_361
+  - first:
+      213: 5939917262905339858
+    second: TilesetHouse_362
+  - first:
+      213: 6016165596270185967
+    second: TilesetHouse_363
+  - first:
+      213: 4402365446145731949
+    second: TilesetHouse_364
+  - first:
+      213: 5800055745394468677
+    second: TilesetHouse_365
+  - first:
+      213: 4294590196528944096
+    second: TilesetHouse_366
+  - first:
+      213: -6725942247391052825
+    second: TilesetHouse_367
+  - first:
+      213: 863925419797284665
+    second: TilesetHouse_368
+  - first:
+      213: 5834157465055896872
+    second: TilesetHouse_369
+  - first:
+      213: -3196195588097638629
+    second: TilesetHouse_370
+  - first:
+      213: -5282187153510741163
+    second: TilesetHouse_371
+  - first:
+      213: 7191915618882949265
+    second: TilesetHouse_372
+  - first:
+      213: -7904107400531614974
+    second: TilesetHouse_373
+  - first:
+      213: 4972474301070907813
+    second: TilesetHouse_374
+  - first:
+      213: -1855957651127438354
+    second: TilesetHouse_375
+  - first:
+      213: -6305499724652871534
+    second: TilesetHouse_376
+  - first:
+      213: 3988934897533310991
+    second: TilesetHouse_377
+  - first:
+      213: 7931285973045726530
+    second: TilesetHouse_378
+  - first:
+      213: -1388819410680356410
+    second: TilesetHouse_379
+  - first:
+      213: -7552502757688912085
+    second: TilesetHouse_380
+  - first:
+      213: 4977410657074262924
+    second: TilesetHouse_381
+  - first:
+      213: -3346255595429464603
+    second: TilesetHouse_382
+  - first:
+      213: 2553279189318452807
+    second: TilesetHouse_383
+  - first:
+      213: 6871732356629824281
+    second: TilesetHouse_384
+  - first:
+      213: 8224441798596010958
+    second: TilesetHouse_385
+  - first:
+      213: -4513220814538540137
+    second: TilesetHouse_386
+  - first:
+      213: -4834434967974175100
+    second: TilesetHouse_387
+  - first:
+      213: 1579460058127178864
+    second: TilesetHouse_388
+  - first:
+      213: 1754259597360111338
+    second: TilesetHouse_389
+  - first:
+      213: -6597619569979758274
+    second: TilesetHouse_390
+  - first:
+      213: -8938659586034636248
+    second: TilesetHouse_391
+  - first:
+      213: -8511969270141913899
+    second: TilesetHouse_392
+  - first:
+      213: -6948486081272375936
+    second: TilesetHouse_393
+  - first:
+      213: 6038384954936595685
+    second: TilesetHouse_394
+  - first:
+      213: 1185174005999606217
+    second: TilesetHouse_395
+  - first:
+      213: 2811619395699686370
+    second: TilesetHouse_396
+  - first:
+      213: 5289377572727353909
+    second: TilesetHouse_397
+  - first:
+      213: -7228471717129988427
+    second: TilesetHouse_398
+  - first:
+      213: -3422010029058951102
+    second: TilesetHouse_399
+  - first:
+      213: -6624734922267058746
+    second: TilesetHouse_400
+  - first:
+      213: -7484978628827272514
+    second: TilesetHouse_401
+  - first:
+      213: -3898797857911587904
+    second: TilesetHouse_402
+  - first:
+      213: -4619648888188788591
+    second: TilesetHouse_403
+  - first:
+      213: 675445701146700840
+    second: TilesetHouse_404
+  - first:
+      213: 147366908404937576
+    second: TilesetHouse_405
+  - first:
+      213: -3868095531283213502
+    second: TilesetHouse_406
+  - first:
+      213: 7200633322029008697
+    second: TilesetHouse_407
+  - first:
+      213: 9181644227988934206
+    second: TilesetHouse_408
+  - first:
+      213: -8925088245943277573
+    second: TilesetHouse_409
+  - first:
+      213: 1919744110628593318
+    second: TilesetHouse_410
+  - first:
+      213: 493376211967888700
+    second: TilesetHouse_411
+  - first:
+      213: 8071506422051399698
+    second: TilesetHouse_412
+  - first:
+      213: -3929219263629573167
+    second: TilesetHouse_413
+  - first:
+      213: -7212733902216187070
+    second: TilesetHouse_414
+  - first:
+      213: 2041414797513429348
+    second: TilesetHouse_415
+  - first:
+      213: 1123844249106760077
+    second: TilesetHouse_416
+  - first:
+      213: 1690475078055608437
+    second: TilesetHouse_417
+  - first:
+      213: -5866906086578095880
+    second: TilesetHouse_418
+  - first:
+      213: 3723678779526346664
+    second: TilesetHouse_419
+  - first:
+      213: -7928134856528704350
+    second: TilesetHouse_420
+  - first:
+      213: -6286332240591333061
+    second: TilesetHouse_421
+  - first:
+      213: 8317003555895589525
+    second: TilesetHouse_422
+  - first:
+      213: -3999801781627716444
+    second: TilesetHouse_423
+  - first:
+      213: 8287563848540260641
+    second: TilesetHouse_424
+  - first:
+      213: -4512449820555502425
+    second: TilesetHouse_425
+  - first:
+      213: 7597374336059496870
+    second: TilesetHouse_426
+  - first:
+      213: -3824404988504902875
+    second: TilesetHouse_427
+  - first:
+      213: -7776790911683779541
+    second: TilesetHouse_428
+  - first:
+      213: 7544628740562291225
+    second: TilesetHouse_429
+  - first:
+      213: 1033477986135456539
+    second: TilesetHouse_430
+  - first:
+      213: 4115890834166481033
+    second: TilesetHouse_431
+  - first:
+      213: -6548640133314628805
+    second: TilesetHouse_432
+  - first:
+      213: 8381821850262418095
+    second: TilesetHouse_433
+  - first:
+      213: 9016306045267867401
+    second: TilesetHouse_434
+  - first:
+      213: 5088879584669802782
+    second: TilesetHouse_435
+  - first:
+      213: -7748690421690558751
+    second: TilesetHouse_436
+  - first:
+      213: -2685138164709469873
+    second: TilesetHouse_437
+  - first:
+      213: 3794345032094559809
+    second: TilesetHouse_438
+  - first:
+      213: -4304656781745091232
+    second: TilesetHouse_439
+  - first:
+      213: -1812084698224741934
+    second: TilesetHouse_440
+  - first:
+      213: 6113872914990850037
+    second: TilesetHouse_441
+  - first:
+      213: -749321833761245548
+    second: TilesetHouse_442
+  - first:
+      213: -9205825819276275720
+    second: TilesetHouse_443
+  - first:
+      213: -7243924819108820949
+    second: TilesetHouse_444
+  - first:
+      213: 9164661059999570869
+    second: TilesetHouse_445
+  - first:
+      213: -8016573348918322854
+    second: TilesetHouse_446
+  - first:
+      213: -817730898113264994
+    second: TilesetHouse_447
+  - first:
+      213: 4089141361683661468
+    second: TilesetHouse_448
+  - first:
+      213: -4072975247774214097
+    second: TilesetHouse_449
+  - first:
+      213: 7559425395624206960
+    second: TilesetHouse_450
+  - first:
+      213: -233231406990367009
+    second: TilesetHouse_451
+  - first:
+      213: -9138943031935410084
+    second: TilesetHouse_452
+  - first:
+      213: -2048362820426898883
+    second: TilesetHouse_453
+  - first:
+      213: 1838525258022834105
+    second: TilesetHouse_454
+  - first:
+      213: -5128137252585502140
+    second: TilesetHouse_455
+  - first:
+      213: -1340834689011684829
+    second: TilesetHouse_456
+  - first:
+      213: -8300044740196424195
+    second: TilesetHouse_457
+  - first:
+      213: 2838257955892653971
+    second: TilesetHouse_458
+  - first:
+      213: 8353235407360500875
+    second: TilesetHouse_459
+  - first:
+      213: 2373917537060789311
+    second: TilesetHouse_460
+  - first:
+      213: 6422945058740904285
+    second: TilesetHouse_461
+  - first:
+      213: -5768957717457241504
+    second: TilesetHouse_462
+  - first:
+      213: -6605538190055462549
+    second: TilesetHouse_463
+  - first:
+      213: 6463224433565195068
+    second: TilesetHouse_464
+  - first:
+      213: -2783015564978996280
+    second: TilesetHouse_465
+  - first:
+      213: -8949987109865262001
+    second: TilesetHouse_466
+  - first:
+      213: -8567128333138700213
+    second: TilesetHouse_467
+  - first:
+      213: 8128518464794180815
+    second: TilesetHouse_468
+  - first:
+      213: 8317879129336419234
+    second: TilesetHouse_469
+  - first:
+      213: -2573416956275187366
+    second: TilesetHouse_470
+  - first:
+      213: -8818407044020484478
+    second: TilesetHouse_471
+  - first:
+      213: 1665247662732926001
+    second: TilesetHouse_472
+  - first:
+      213: -6435379863585292779
+    second: TilesetHouse_473
+  - first:
+      213: -3100666553386852638
+    second: TilesetHouse_474
+  - first:
+      213: -4324648097174757414
+    second: TilesetHouse_475
+  - first:
+      213: -7312086810450382452
+    second: TilesetHouse_476
+  - first:
+      213: 2272986308581094450
+    second: TilesetHouse_477
+  - first:
+      213: -2679777772499087980
+    second: TilesetHouse_478
+  - first:
+      213: 2031536922650175149
+    second: TilesetHouse_479
+  - first:
+      213: 4205391246609478400
+    second: TilesetHouse_480
+  - first:
+      213: -8830089290234378403
+    second: TilesetHouse_481
+  - first:
+      213: 9013989666063032787
+    second: TilesetHouse_482
+  - first:
+      213: -5307198299562874485
+    second: TilesetHouse_483
+  - first:
+      213: 9113514601255836804
+    second: TilesetHouse_484
+  - first:
+      213: -679757194966666220
+    second: TilesetHouse_485
+  - first:
+      213: 5662766823415785314
+    second: TilesetHouse_486
+  - first:
+      213: -5519141266069424817
+    second: TilesetHouse_487
+  - first:
+      213: -1925624670666433537
+    second: TilesetHouse_488
+  - first:
+      213: 8746571946143486617
+    second: TilesetHouse_489
+  - first:
+      213: 1108507536740855461
+    second: TilesetHouse_490
+  - first:
+      213: 6633066612039274327
+    second: TilesetHouse_491
+  - first:
+      213: 7406260248765522069
+    second: TilesetHouse_492
+  - first:
+      213: -4490439282085693066
+    second: TilesetHouse_493
+  - first:
+      213: 6418511187824730322
+    second: TilesetHouse_494
+  - first:
+      213: -6280924561941172045
+    second: TilesetHouse_495
+  - first:
+      213: -2118065419122553131
+    second: TilesetHouse_496
+  - first:
+      213: -5544033979992345912
+    second: TilesetHouse_497
+  - first:
+      213: -1731520494415408239
+    second: TilesetHouse_498
+  - first:
+      213: 8097514287787876566
+    second: TilesetHouse_499
+  - first:
+      213: -531697257788026266
+    second: TilesetHouse_500
+  - first:
+      213: 974318323439237902
+    second: TilesetHouse_501
+  - first:
+      213: 466501367745295851
+    second: TilesetHouse_502
+  - first:
+      213: 8869516201646070847
+    second: TilesetHouse_503
+  - first:
+      213: 1249079053848804304
+    second: TilesetHouse_504
+  - first:
+      213: -603998429186177495
+    second: TilesetHouse_505
+  - first:
+      213: -6306042819404294523
+    second: TilesetHouse_506
+  - first:
+      213: 2072539668585248317
+    second: TilesetHouse_507
+  - first:
+      213: 5363855740218271990
+    second: TilesetHouse_508
+  - first:
+      213: 7452268548350705350
+    second: TilesetHouse_509
+  - first:
+      213: -4882635097475987988
+    second: TilesetHouse_510
+  - first:
+      213: 7009142576266184584
+    second: TilesetHouse_511
+  - first:
+      213: -1353645991211803141
+    second: TilesetHouse_512
+  - first:
+      213: -6912269624697784455
+    second: TilesetHouse_513
+  - first:
+      213: 8667735559047310604
+    second: TilesetHouse_514
+  - first:
+      213: 2882221075222052741
+    second: TilesetHouse_515
+  - first:
+      213: -7292026920801707710
+    second: TilesetHouse_516
+  - first:
+      213: -167601412368895912
+    second: TilesetHouse_517
+  - first:
+      213: 1188016985128365060
+    second: TilesetHouse_518
+  - first:
+      213: -7421746743097793588
+    second: TilesetHouse_519
+  - first:
+      213: 3198588915294237454
+    second: TilesetHouse_520
+  - first:
+      213: -2387210645279553120
+    second: TilesetHouse_521
+  - first:
+      213: -4019220967813570598
+    second: TilesetHouse_522
+  - first:
+      213: -447152516534463591
+    second: TilesetHouse_523
+  - first:
+      213: -2830751923021804670
+    second: TilesetHouse_524
+  - first:
+      213: -6403068266742766776
+    second: TilesetHouse_525
+  - first:
+      213: -5850880652520937788
+    second: TilesetHouse_526
+  - first:
+      213: 6669796170703991813
+    second: TilesetHouse_527
+  - first:
+      213: -6458253140010401584
+    second: TilesetHouse_528
+  - first:
+      213: -9036328082958838075
+    second: TilesetHouse_529
+  - first:
+      213: 503355837083492675
+    second: TilesetHouse_530
+  - first:
+      213: 4629411879143724229
+    second: TilesetHouse_531
+  - first:
+      213: -3764291258111726291
+    second: TilesetHouse_532
+  - first:
+      213: -3997325115115382808
+    second: TilesetHouse_533
+  - first:
+      213: -1250324973811329065
+    second: TilesetHouse_534
+  - first:
+      213: 7767103068291095477
+    second: TilesetHouse_535
+  - first:
+      213: -8259989906647858476
+    second: TilesetHouse_536
+  - first:
+      213: 1153732157409943158
+    second: TilesetHouse_537
+  - first:
+      213: 4433667196330173260
+    second: TilesetHouse_538
+  - first:
+      213: 4323367884597706743
+    second: TilesetHouse_539
+  - first:
+      213: -7372916977959674347
+    second: TilesetHouse_540
+  - first:
+      213: -8068839200403663785
+    second: TilesetHouse_541
+  - first:
+      213: -928920382074169018
+    second: TilesetHouse_542
+  - first:
+      213: -7720721671970991258
+    second: TilesetHouse_543
+  - first:
+      213: 6362868857590374181
+    second: TilesetHouse_544
+  - first:
+      213: -8329743897891129913
+    second: TilesetHouse_545
+  - first:
+      213: -1674599453393582851
+    second: TilesetHouse_546
+  - first:
+      213: -6483704072444338736
+    second: TilesetHouse_547
+  - first:
+      213: 5249110105811359841
+    second: TilesetHouse_548
+  - first:
+      213: -1122198091231438368
+    second: TilesetHouse_549
+  - first:
+      213: 577817959620936857
+    second: TilesetHouse_550
+  - first:
+      213: -3682248778089435764
+    second: TilesetHouse_551
+  - first:
+      213: -5455497398772219108
+    second: TilesetHouse_552
+  - first:
+      213: 5716623753119609768
+    second: TilesetHouse_553
+  - first:
+      213: -4965842130902878674
+    second: TilesetHouse_554
+  - first:
+      213: -5202800084564379115
+    second: TilesetHouse_555
+  - first:
+      213: -2479299453507766482
+    second: TilesetHouse_556
+  - first:
+      213: 8831103140306579920
+    second: TilesetHouse_557
+  - first:
+      213: 1473963998790090543
+    second: TilesetHouse_558
+  - first:
+      213: -2341178773642074822
+    second: TilesetHouse_559
+  - first:
+      213: -4277791838544144602
+    second: TilesetHouse_560
+  - first:
+      213: -2680347342779677384
+    second: TilesetHouse_561
+  - first:
+      213: 5227557081416018515
+    second: TilesetHouse_562
+  - first:
+      213: 3008173674789687530
+    second: TilesetHouse_563
+  - first:
+      213: -944273226044349850
+    second: TilesetHouse_564
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetHouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d3542d666182d0800000000000000
+      internalID: -3278226434802068603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635a168ba6dc8cb0800000000000000
+      internalID: -4860273865661983898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2979f7c8aad1720800000000000000
+      internalID: 2818596462216581815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421fb6be7c3f80c50800000000000000
+      internalID: 6631818491276816676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13130ee1dc563bcd0800000000000000
+      internalID: -2543577432873488079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 320
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120cb7a960ba5cb70800000000000000
+      internalID: 8918722681927090209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ae69ae6e6377a0800000000000000
+      internalID: -6380634825485801784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df4c67591357fd0800000000000000
+      internalID: -2344913512963965630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 241
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0ab86ee7dbb750800000000000000
+      internalID: 6321883920903835643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 271
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506daf5edf16c31d0800000000000000
+      internalID: -3369710678066932219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e0ba4daa024600800000000000000
+      internalID: 450934652089197434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5f8d1e693c8360800000000000000
+      internalID: 7173171451599477555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163da1f3c09ea9350800000000000000
+      internalID: 6024383690369061729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861b26b3ecf934650800000000000000
+      internalID: 6215987618809819496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810dba097ed30000800000000000000
+      internalID: 1089036382699909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 256
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c9159a36dbf1f0800000000000000
+      internalID: -1009978144316602100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f970a5e1d47b440800000000000000
+      internalID: 4951511108071956239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 144
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb259bd84cc70a50800000000000000
+      internalID: 6487378401544186804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 128
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d570af41e97fd0800000000000000
+      internalID: -2343594398958889671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f02486fea4097b0800000000000000
+      internalID: -5219589576015606001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3eafc3718671550800000000000000
+      internalID: 6131483866704831448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10aeb0f93c73f840800000000000000
+      internalID: 5256681778365505562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14ecceb4b99f470800000000000000
+      internalID: 8428938927998386675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cab963de2764960800000000000000
+      internalID: 7585876985501166598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b28a04a05044f050800000000000000
+      internalID: 5833358132445348528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d58229c16006d90800000000000000
+      internalID: -7106673492209672880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c298165de918b0800000000000000
+      internalID: -5180848942277802514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7734365515c530800000000000000
+      internalID: 3874526514409601685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_46
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 63
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01756203b25005bc0800000000000000
+      internalID: -3796528802823776496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb452b5df799c90800000000000000
+      internalID: -7162553176559404084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 256
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6785381a9d916420800000000000000
+      internalID: 2621549743263025007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56af7634fba0de700800000000000000
+      internalID: 571124544331840101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe84cfb6d7ff392e0800000000000000
+      internalID: -2120070085413680913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf2d611eae45cd0800000000000000
+      internalID: -2570171234850243767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674366c963f5bb450800000000000000
+      internalID: 6105578407987655798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a6fd64496c6150800000000000000
+      internalID: 5867180157180488104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a6fa1e5b4960d50800000000000000
+      internalID: 6703208604283922957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf367f5e6a51fbd0800000000000000
+      internalID: -2598196079921578069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b816657fe047e16e0800000000000000
+      internalID: -1864925588056809077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 113
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7356db3b5edf34ff0800000000000000
+      internalID: -52919607593441993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 113
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f625da3d9d6ba040800000000000000
+      internalID: 4659938761509250804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e94428a02920990800000000000000
+      internalID: -7421208662120292724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951063d0fcdf76d90800000000000000
+      internalID: -7104430821431967399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1d1e3ba25b1780800000000000000
+      internalID: -8711278158783111235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb180813f7bba00800000000000000
+      internalID: 773351611610282950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9066cea285f0f00800000000000000
+      internalID: 1085182976597559715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26e23ae42583900800000000000000
+      internalID: 664371442735801057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a1325f09c471a0800000000000000
+      internalID: -6812599268664040299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceee9934ee591c30800000000000000
+      internalID: 4330596851005714117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c05d444f5105a710800000000000000
+      internalID: 1703769542709039302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a8fb20b0031330800000000000000
+      internalID: 3680286077143787233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0b95b5c71f966b0800000000000000
+      internalID: -5302441569841205048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 81
+        width: 2
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550c9b66dbea41e0800000000000000
+      internalID: -2212696960738261672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa98e5effe086880800000000000000
+      internalID: -8617621394736768260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f12c1043fad160800000000000000
+      internalID: 7051215623277376686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb57f5f5eceb0f950800000000000000
+      internalID: 6480889657358775742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015ecf152761c360800000000000000
+      internalID: 7188139889405088006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8dc33fb7dad7470800000000000000
+      internalID: 8394056028361906349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0177f0c59281b25a0800000000000000
+      internalID: -6545111067535640816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5d5b05fb17b8700800000000000000
+      internalID: 543653246535062974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 272
+        width: 4
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5af902c08c98370800000000000000
+      internalID: 8325405340583568881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 272
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5753caf606861510800000000000000
+      internalID: 1519549288819152735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe56dd734e51df90800000000000000
+      internalID: -6930654707579461889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 272
+        width: 4
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dffd70c8c7f6d50800000000000000
+      internalID: 6732736908811566382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e3ef2c538ff8b0800000000000000
+      internalID: -5116226219705898605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_65
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 288
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a5370a04912a10800000000000000
+      internalID: 1882948890009117413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59e46047a47d4720800000000000000
+      internalID: 2832048002374625627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8fab49891d56f0800000000000000
+      internalID: -694370690074177539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_68
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 305
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47882285be2dc20800000000000000
+      internalID: 3229902646547084491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_69
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 289
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b25dabb29e1310800000000000000
+      internalID: 1377699870786369482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04335eef6c584eb0800000000000000
+      internalID: -4735433372370521077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105c61215e16f42f0800000000000000
+      internalID: -986462156891962111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_72
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f07788709d8b30800000000000000
+      internalID: 4291244867296752385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c9f5451193d610800000000000000
+      internalID: 1644817809474699712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_74
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 86
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ed61ec80aacc60800000000000000
+      internalID: 7839254628329710723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 86
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f463a1b55f4d1a870800000000000000
+      internalID: 8692462906062288463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 82
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79117cb9de7f3f980800000000000000
+      internalID: -8506182671279910505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a0adec57a184590800000000000000
+      internalID: -7689867270451230053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_78
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4404d0ce6f56ff0800000000000000
+      internalID: -43357127695121213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7c10f4873a4da0800000000000000
+      internalID: -5959890112767819909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f514a79b897e76e40800000000000000
+      internalID: 5649738900692418911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e3db132ac784a0800000000000000
+      internalID: -6591077277493894884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6634a95bbacd51f0800000000000000
+      internalID: -1054463831723198869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1763af92a97d4580800000000000000
+      internalID: -8841276754088466660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_84
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5198d0decddc4ba0800000000000000
+      internalID: -6103259514657009318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08b11e4151958a0800000000000000
+      internalID: -6315993822990204745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564dec8ea747934b0800000000000000
+      internalID: -5460205001969314715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 54
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1520898134d699810800000000000000
+      internalID: 1772568063289852497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 54
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68b1e16cf949240800000000000000
+      internalID: 4797635176313882319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a9bdc65416da40800000000000000
+      internalID: 5392519966873987011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b72c7fde1346ae0800000000000000
+      internalID: -1557064673029620960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491523190121f3f0800000000000000
+      internalID: -868876930246174395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ae4474abb0f1860800000000000000
+      internalID: 7502728398910056964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892767fc13eb0fbb0800000000000000
+      internalID: -4904210873063148904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd3157cbc331840800000000000000
+      internalID: 5193561575404068292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e057c03f576530800000000000000
+      internalID: 3848149069718414581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9533ce6d481a1a980800000000000000
+      internalID: -8529358627349449895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetHouse_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 305
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6aff54fb2a868d0800000000000000
+      internalID: -2852851421542373660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

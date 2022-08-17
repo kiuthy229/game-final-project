@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bb35eb83f63441a49923da4aa5ba7640
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NinjaAdventure
+  fontNames:
+  - NinjaAdventure
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82c1481a456e6d24ea9578f6c9330a4c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

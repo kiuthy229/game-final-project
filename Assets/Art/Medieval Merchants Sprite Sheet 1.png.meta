@@ -1,0 +1,3956 @@
+fileFormatVersion: 2
+guid: b0083a9549f24f34b8b4525f488ed2af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6882833496953191646
+    second: Medieval Merchants Sprite Sheet 1_0
+  - first:
+      213: -4174872204083798196
+    second: Medieval Merchants Sprite Sheet 1_1
+  - first:
+      213: 3990968792223435603
+    second: Medieval Merchants Sprite Sheet 1_2
+  - first:
+      213: 9074130274822793043
+    second: Medieval Merchants Sprite Sheet 1_3
+  - first:
+      213: 4399615615970601625
+    second: Medieval Merchants Sprite Sheet 1_4
+  - first:
+      213: -872830840144979437
+    second: Medieval Merchants Sprite Sheet 1_5
+  - first:
+      213: 26006270170791321
+    second: Medieval Merchants Sprite Sheet 1_6
+  - first:
+      213: 4883572577862145116
+    second: Medieval Merchants Sprite Sheet 1_7
+  - first:
+      213: -625089664408696448
+    second: Medieval Merchants Sprite Sheet 1_8
+  - first:
+      213: 6309847349758955175
+    second: Medieval Merchants Sprite Sheet 1_9
+  - first:
+      213: 8833193653667746663
+    second: Medieval Merchants Sprite Sheet 1_10
+  - first:
+      213: 8085836580977045494
+    second: Medieval Merchants Sprite Sheet 1_11
+  - first:
+      213: -387282342818526790
+    second: Medieval Merchants Sprite Sheet 1_12
+  - first:
+      213: -4061907614242801308
+    second: Medieval Merchants Sprite Sheet 1_13
+  - first:
+      213: 7064059992659198552
+    second: Medieval Merchants Sprite Sheet 1_14
+  - first:
+      213: 7576283973558466675
+    second: Medieval Merchants Sprite Sheet 1_15
+  - first:
+      213: -7144682481025007551
+    second: Medieval Merchants Sprite Sheet 1_16
+  - first:
+      213: -221530761657701569
+    second: Medieval Merchants Sprite Sheet 1_17
+  - first:
+      213: 1207657316350808452
+    second: Medieval Merchants Sprite Sheet 1_18
+  - first:
+      213: -2550338586889712706
+    second: Medieval Merchants Sprite Sheet 1_19
+  - first:
+      213: 220974628850759203
+    second: Medieval Merchants Sprite Sheet 1_20
+  - first:
+      213: -8302687468520565333
+    second: Medieval Merchants Sprite Sheet 1_21
+  - first:
+      213: -5122179982483620172
+    second: Medieval Merchants Sprite Sheet 1_22
+  - first:
+      213: 5013822589427320375
+    second: Medieval Merchants Sprite Sheet 1_23
+  - first:
+      213: 8808906524500748932
+    second: Medieval Merchants Sprite Sheet 1_24
+  - first:
+      213: 7718474837093255436
+    second: Medieval Merchants Sprite Sheet 1_25
+  - first:
+      213: -4245477580415136788
+    second: Medieval Merchants Sprite Sheet 1_26
+  - first:
+      213: -2257036166363366585
+    second: Medieval Merchants Sprite Sheet 1_27
+  - first:
+      213: 999406669715581030
+    second: Medieval Merchants Sprite Sheet 1_28
+  - first:
+      213: -3929236920074978670
+    second: Medieval Merchants Sprite Sheet 1_29
+  - first:
+      213: 4333584916960821751
+    second: Medieval Merchants Sprite Sheet 1_30
+  - first:
+      213: 261944866277595013
+    second: Medieval Merchants Sprite Sheet 1_31
+  - first:
+      213: 725469443855387251
+    second: Medieval Merchants Sprite Sheet 1_32
+  - first:
+      213: -7644071237036028855
+    second: Medieval Merchants Sprite Sheet 1_33
+  - first:
+      213: -2798462289277583946
+    second: Medieval Merchants Sprite Sheet 1_34
+  - first:
+      213: 5891413970465754877
+    second: Medieval Merchants Sprite Sheet 1_35
+  - first:
+      213: 6284500109092660723
+    second: Medieval Merchants Sprite Sheet 1_36
+  - first:
+      213: 3286380502410925265
+    second: Medieval Merchants Sprite Sheet 1_37
+  - first:
+      213: 7923877085894615916
+    second: Medieval Merchants Sprite Sheet 1_38
+  - first:
+      213: 2515420046578066466
+    second: Medieval Merchants Sprite Sheet 1_39
+  - first:
+      213: -1690092828614408866
+    second: Medieval Merchants Sprite Sheet 1_40
+  - first:
+      213: 2159245977271276451
+    second: Medieval Merchants Sprite Sheet 1_41
+  - first:
+      213: 4425199706134926506
+    second: Medieval Merchants Sprite Sheet 1_42
+  - first:
+      213: -7754861896492971260
+    second: Medieval Merchants Sprite Sheet 1_43
+  - first:
+      213: -4325836023956772123
+    second: Medieval Merchants Sprite Sheet 1_44
+  - first:
+      213: 4096391674478581082
+    second: Medieval Merchants Sprite Sheet 1_45
+  - first:
+      213: 7022223071501829071
+    second: Medieval Merchants Sprite Sheet 1_46
+  - first:
+      213: 8450762964799896198
+    second: Medieval Merchants Sprite Sheet 1_47
+  - first:
+      213: -9211145865589490675
+    second: Medieval Merchants Sprite Sheet 1_48
+  - first:
+      213: -1897885492402857501
+    second: Medieval Merchants Sprite Sheet 1_49
+  - first:
+      213: 4751405587293891713
+    second: Medieval Merchants Sprite Sheet 1_50
+  - first:
+      213: -4829537958322835182
+    second: Medieval Merchants Sprite Sheet 1_51
+  - first:
+      213: 7670286036767753169
+    second: Medieval Merchants Sprite Sheet 1_52
+  - first:
+      213: 4136384549360175604
+    second: Medieval Merchants Sprite Sheet 1_53
+  - first:
+      213: 3581152947266089740
+    second: Medieval Merchants Sprite Sheet 1_54
+  - first:
+      213: 141552304678904498
+    second: Medieval Merchants Sprite Sheet 1_55
+  - first:
+      213: 5512367535226750234
+    second: Medieval Merchants Sprite Sheet 1_56
+  - first:
+      213: -307414677348101746
+    second: Medieval Merchants Sprite Sheet 1_57
+  - first:
+      213: 1515136179143609621
+    second: Medieval Merchants Sprite Sheet 1_58
+  - first:
+      213: 659584302974384900
+    second: Medieval Merchants Sprite Sheet 1_59
+  - first:
+      213: 7409035454696223485
+    second: Medieval Merchants Sprite Sheet 1_60
+  - first:
+      213: 3950927284452950789
+    second: Medieval Merchants Sprite Sheet 1_61
+  - first:
+      213: 1170727621112341036
+    second: Medieval Merchants Sprite Sheet 1_62
+  - first:
+      213: 4431007665761410014
+    second: Medieval Merchants Sprite Sheet 1_63
+  - first:
+      213: 1514956640393846246
+    second: Medieval Merchants Sprite Sheet 1_64
+  - first:
+      213: -2337097217725733718
+    second: Medieval Merchants Sprite Sheet 1_65
+  - first:
+      213: 818786269485832458
+    second: Medieval Merchants Sprite Sheet 1_66
+  - first:
+      213: 7929137850021536688
+    second: Medieval Merchants Sprite Sheet 1_67
+  - first:
+      213: 8232002296458442949
+    second: Medieval Merchants Sprite Sheet 1_68
+  - first:
+      213: 5271756715575988739
+    second: Medieval Merchants Sprite Sheet 1_69
+  - first:
+      213: -452597875734225860
+    second: Medieval Merchants Sprite Sheet 1_70
+  - first:
+      213: 6203956904638206677
+    second: Medieval Merchants Sprite Sheet 1_71
+  - first:
+      213: 2542404307255091223
+    second: Medieval Merchants Sprite Sheet 1_72
+  - first:
+      213: 7366190601665375701
+    second: Medieval Merchants Sprite Sheet 1_73
+  - first:
+      213: -8627266008645529310
+    second: Medieval Merchants Sprite Sheet 1_74
+  - first:
+      213: -3610201536901901421
+    second: Medieval Merchants Sprite Sheet 1_75
+  - first:
+      213: 6861569394014158588
+    second: Medieval Merchants Sprite Sheet 1_76
+  - first:
+      213: 7131311583397977323
+    second: Medieval Merchants Sprite Sheet 1_77
+  - first:
+      213: 3587502393036756962
+    second: Medieval Merchants Sprite Sheet 1_78
+  - first:
+      213: -7675406568949836291
+    second: Medieval Merchants Sprite Sheet 1_79
+  - first:
+      213: 6818510549443146505
+    second: Medieval Merchants Sprite Sheet 1_80
+  - first:
+      213: 8125779231876960647
+    second: Medieval Merchants Sprite Sheet 1_81
+  - first:
+      213: 695119330428413005
+    second: Medieval Merchants Sprite Sheet 1_82
+  - first:
+      213: 6049539771697313215
+    second: Medieval Merchants Sprite Sheet 1_83
+  - first:
+      213: -8549491398292815283
+    second: Medieval Merchants Sprite Sheet 1_84
+  - first:
+      213: 206429546145740689
+    second: Medieval Merchants Sprite Sheet 1_85
+  - first:
+      213: 2711408158449741330
+    second: Medieval Merchants Sprite Sheet 1_86
+  - first:
+      213: 8488583551899935521
+    second: Medieval Merchants Sprite Sheet 1_87
+  - first:
+      213: 250194541593703571
+    second: Medieval Merchants Sprite Sheet 1_88
+  - first:
+      213: 7866513823593536265
+    second: Medieval Merchants Sprite Sheet 1_89
+  - first:
+      213: 571822754031329739
+    second: Medieval Merchants Sprite Sheet 1_90
+  - first:
+      213: -305554410814927719
+    second: Medieval Merchants Sprite Sheet 1_91
+  - first:
+      213: -2406380802747978090
+    second: Medieval Merchants Sprite Sheet 1_92
+  - first:
+      213: -2632000245729798886
+    second: Medieval Merchants Sprite Sheet 1_93
+  - first:
+      213: 1496110649785913927
+    second: Medieval Merchants Sprite Sheet 1_94
+  - first:
+      213: -4458815588947660218
+    second: Medieval Merchants Sprite Sheet 1_95
+  - first:
+      213: 1070695549426463018
+    second: Medieval Merchants Sprite Sheet 1_96
+  - first:
+      213: 7684505776142900983
+    second: Medieval Merchants Sprite Sheet 1_97
+  - first:
+      213: 4183557572591283969
+    second: Medieval Merchants Sprite Sheet 1_98
+  - first:
+      213: -7202022397825949224
+    second: Medieval Merchants Sprite Sheet 1_99
+  - first:
+      213: 6149971234608083722
+    second: Medieval Merchants Sprite Sheet 1_100
+  - first:
+      213: -2571851935088580269
+    second: Medieval Merchants Sprite Sheet 1_101
+  - first:
+      213: 6324010518498125608
+    second: Medieval Merchants Sprite Sheet 1_102
+  - first:
+      213: 7914935068918519383
+    second: Medieval Merchants Sprite Sheet 1_103
+  - first:
+      213: 2029691346238559143
+    second: Medieval Merchants Sprite Sheet 1_104
+  - first:
+      213: -8983284702718533637
+    second: Medieval Merchants Sprite Sheet 1_105
+  - first:
+      213: -6871123578257181595
+    second: Medieval Merchants Sprite Sheet 1_106
+  - first:
+      213: 632522751610002107
+    second: Medieval Merchants Sprite Sheet 1_107
+  - first:
+      213: 7803308404316670984
+    second: Medieval Merchants Sprite Sheet 1_108
+  - first:
+      213: 723456778381924961
+    second: Medieval Merchants Sprite Sheet 1_109
+  - first:
+      213: -8484267244745794644
+    second: Medieval Merchants Sprite Sheet 1_110
+  - first:
+      213: -321141449007311805
+    second: Medieval Merchants Sprite Sheet 1_111
+  - first:
+      213: 3286596389654493857
+    second: Medieval Merchants Sprite Sheet 1_112
+  - first:
+      213: -5452372226584270978
+    second: Medieval Merchants Sprite Sheet 1_113
+  - first:
+      213: 1288192135392638558
+    second: Medieval Merchants Sprite Sheet 1_114
+  - first:
+      213: -1242208974799154378
+    second: Medieval Merchants Sprite Sheet 1_115
+  - first:
+      213: -2165380829128366825
+    second: Medieval Merchants Sprite Sheet 1_116
+  - first:
+      213: 8219263427976775884
+    second: Medieval Merchants Sprite Sheet 1_117
+  - first:
+      213: 7816114369144726245
+    second: Medieval Merchants Sprite Sheet 1_118
+  - first:
+      213: -7115636751176721019
+    second: Medieval Merchants Sprite Sheet 1_119
+  - first:
+      213: -4728945802918552763
+    second: Medieval Merchants Sprite Sheet 1_120
+  - first:
+      213: -2151358421587040066
+    second: Medieval Merchants Sprite Sheet 1_121
+  - first:
+      213: -637897289404707192
+    second: Medieval Merchants Sprite Sheet 1_122
+  - first:
+      213: 2540367495240705353
+    second: Medieval Merchants Sprite Sheet 1_123
+  - first:
+      213: 815321055156411904
+    second: Medieval Merchants Sprite Sheet 1_124
+  - first:
+      213: 1789056244803262172
+    second: Medieval Merchants Sprite Sheet 1_125
+  - first:
+      213: -6181873812055448762
+    second: Medieval Merchants Sprite Sheet 1_126
+  - first:
+      213: -6174383010904696078
+    second: Medieval Merchants Sprite Sheet 1_127
+  - first:
+      213: -9065334027843086850
+    second: Medieval Merchants Sprite Sheet 1_128
+  - first:
+      213: -8498798860460416824
+    second: Medieval Merchants Sprite Sheet 1_129
+  - first:
+      213: -3063219701451864175
+    second: Medieval Merchants Sprite Sheet 1_130
+  - first:
+      213: 4981057023143558231
+    second: Medieval Merchants Sprite Sheet 1_131
+  - first:
+      213: -1728334478310874157
+    second: Medieval Merchants Sprite Sheet 1_132
+  - first:
+      213: 8762732604609161720
+    second: Medieval Merchants Sprite Sheet 1_133
+  - first:
+      213: -2017119286984051119
+    second: Medieval Merchants Sprite Sheet 1_134
+  - first:
+      213: -8599139083988601086
+    second: Medieval Merchants Sprite Sheet 1_135
+  - first:
+      213: 3525797137348241298
+    second: Medieval Merchants Sprite Sheet 1_136
+  - first:
+      213: -4066938099654769717
+    second: Medieval Merchants Sprite Sheet 1_137
+  - first:
+      213: -1790811257736777829
+    second: Medieval Merchants Sprite Sheet 1_138
+  - first:
+      213: -8272398772067938222
+    second: Medieval Merchants Sprite Sheet 1_139
+  - first:
+      213: 3496326989025279793
+    second: Medieval Merchants Sprite Sheet 1_140
+  - first:
+      213: 7655072831766511578
+    second: Medieval Merchants Sprite Sheet 1_141
+  - first:
+      213: -1194682246813669772
+    second: Medieval Merchants Sprite Sheet 1_142
+  - first:
+      213: 5352108323650205262
+    second: Medieval Merchants Sprite Sheet 1_143
+  - first:
+      213: -6707040901075202688
+    second: Medieval Merchants Sprite Sheet 1_144
+  - first:
+      213: -8322279242604097444
+    second: Medieval Merchants Sprite Sheet 1_145
+  - first:
+      213: 1402638893380858994
+    second: Medieval Merchants Sprite Sheet 1_146
+  - first:
+      213: 789165615579189476
+    second: Medieval Merchants Sprite Sheet 1_147
+  - first:
+      213: 3934639620118716218
+    second: Medieval Merchants Sprite Sheet 1_148
+  - first:
+      213: 9083397549601111071
+    second: Medieval Merchants Sprite Sheet 1_149
+  - first:
+      213: -8215981042528482881
+    second: Medieval Merchants Sprite Sheet 1_150
+  - first:
+      213: -8443537183153746159
+    second: Medieval Merchants Sprite Sheet 1_151
+  - first:
+      213: -2465349547824239912
+    second: Medieval Merchants Sprite Sheet 1_152
+  - first:
+      213: 8350579185000852080
+    second: Medieval Merchants Sprite Sheet 1_153
+  - first:
+      213: -6335212270700633158
+    second: Medieval Merchants Sprite Sheet 1_154
+  - first:
+      213: -124165056624899984
+    second: Medieval Merchants Sprite Sheet 1_155
+  - first:
+      213: 4230035060579807389
+    second: Medieval Merchants Sprite Sheet 1_156
+  - first:
+      213: -3844791448133776456
+    second: Medieval Merchants Sprite Sheet 1_157
+  - first:
+      213: -7873564604417867351
+    second: Medieval Merchants Sprite Sheet 1_158
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 448
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22302fdb6634b70a0800000000000000
+      internalID: -6882833496953191646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 448
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fdeec89dfdf06c0800000000000000
+      internalID: -4174872204083798196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 448
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc522b8f4c26730800000000000000
+      internalID: 3990968792223435603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 448
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572e6c7869cded70800000000000000
+      internalID: 9074130274822793043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 416
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a6032b7139e0d30800000000000000
+      internalID: 4399615615970601625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 418
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a1720b9f413e3f0800000000000000
+      internalID: -872830840144979437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 420
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d767f90946c5000800000000000000
+      internalID: 26006270170791321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54df42a26fe5c340800000000000000
+      internalID: 4883572577862145116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 416
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c628134c3357f0800000000000000
+      internalID: -625089664408696448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 418
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae825dcbb4119750800000000000000
+      internalID: 6309847349758955175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 420
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763d917e3dec59a70800000000000000
+      internalID: 8833193653667746663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffeef0a789a63070800000000000000
+      internalID: 8085836580977045494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 384
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab94588d2c810aaf0800000000000000
+      internalID: -387282342818526790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 384
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697a96bb8431a7c0800000000000000
+      internalID: -4061907614242801308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 384
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8520086e225980260800000000000000
+      internalID: 7064059992659198552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 384
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ff61122e542960800000000000000
+      internalID: 7576283973558466675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 352
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1404c8d332df8dc90800000000000000
+      internalID: -7144682481025007551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 352
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b229c22f6fcecf0800000000000000
+      internalID: -221530761657701569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 352
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481dd774ee572c010800000000000000
+      internalID: 1207657316350808452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb877741906b9cd0800000000000000
+      internalID: -2550338586889712706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 352
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326f501114f011300800000000000000
+      internalID: 220974628850759203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 352
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59eb5acbde6cc80800000000000000
+      internalID: -8302687468520565333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 352
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7274c17c5ae8b0800000000000000
+      internalID: -5122179982483620172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73605a9a41da49540800000000000000
+      internalID: 5013822589427320375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aec7cffc58f3a70800000000000000
+      internalID: 8808906524500748932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c090cb858f78d1b60800000000000000
+      internalID: 7718474837093255436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb887552a80515c0800000000000000
+      internalID: -4245477580415136788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb3b2a0956da0e0800000000000000
+      internalID: -2257036166363366585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ad8e221b9edd00800000000000000
+      internalID: 999406669715581030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ab494d6db8879c0800000000000000
+      internalID: -3929236920074978670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c07b858cf32c30800000000000000
+      internalID: 4333584916960821751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5879631d77d92a300800000000000000
+      internalID: 261944866277595013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a86609d92611a00800000000000000
+      internalID: 725469443855387251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ccfaeb5bdcae590800000000000000
+      internalID: -7644071237036028855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7842ff5dd929d0800000000000000
+      internalID: -2798462289277583946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8266cac182c150800000000000000
+      internalID: 5891413970465754877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 352
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52f517d87073750800000000000000
+      internalID: 6284500109092660723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d419faa7a19b9d20800000000000000
+      internalID: 3286380502410925265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c632b942a3447fd60800000000000000
+      internalID: 7923877085894615916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 352
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224ae21843198e220800000000000000
+      internalID: 2515420046578066466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55c001e6859b88e0800000000000000
+      internalID: -1690092828614408866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a312f1b6ce27fd10800000000000000
+      internalID: 2159245977271276451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d550efa7796d30800000000000000
+      internalID: 4425199706134926506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b03513132316490800000000000000
+      internalID: -7754861896492971260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae7733e0b87f3c0800000000000000
+      internalID: -4325836023956772123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55d92a368e49d830800000000000000
+      internalID: 4096391674478581082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc34b6e9da2f37160800000000000000
+      internalID: 7022223071501829071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68abce57424274570800000000000000
+      internalID: 8450762964799896198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 320
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cfa3353af6b2080800000000000000
+      internalID: -9211145865589490675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d5f8333b59a5e0800000000000000
+      internalID: -1897885492402857501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c6576253260f140800000000000000
+      internalID: 4751405587293891713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f6ec90d80afcb0800000000000000
+      internalID: -4829537958322835182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34e23f284527a60800000000000000
+      internalID: 7670286036767753169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9070705d3676930800000000000000
+      internalID: 4136384549360175604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03732cb1afc2b130800000000000000
+      internalID: 3581152947266089740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 320
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b226853215e6f100800000000000000
+      internalID: 141552304678904498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a150698411ddf7c40800000000000000
+      internalID: 5512367535226750234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81dcedcaf7dbbbf0800000000000000
+      internalID: -307414677348101746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d8230d358d60510800000000000000
+      internalID: 1515136179143609621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b363ecd60572900800000000000000
+      internalID: 659584302974384900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27175cd7e22d660800000000000000
+      internalID: 7409035454696223485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503873bae6384d630800000000000000
+      internalID: 3950927284452950789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 320
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a32191924f3010800000000000000
+      internalID: 1170727621112341036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 320
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbddbadef91e7d30800000000000000
+      internalID: 4431007665761410014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5bc0b905360510800000000000000
+      internalID: 1514956640393846246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 288
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa467e38676f09fd0800000000000000
+      internalID: -2337097217725733718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 288
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a099ba326c9ec5b00800000000000000
+      internalID: 818786269485832458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b363ad3dd4f90e60800000000000000
+      internalID: 7929137850021536688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_68
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8fa9e3972fd3270800000000000000
+      internalID: 8232002296458442949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 259
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302df264dca092940800000000000000
+      internalID: 5271756715575988739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 260
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cd3c641ac08b9f0800000000000000
+      internalID: -452597875734225860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 259
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2dace4fe1e81650800000000000000
+      internalID: 6203956904638206677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710ec594f3f684320800000000000000
+      internalID: 2542404307255091223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 258
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dde5101357f93660800000000000000
+      internalID: 7366190601665375701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_74
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 260
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22191eb364bc54880800000000000000
+      internalID: -8627266008645529310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_75
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 258
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393946174dcf5edc0800000000000000
+      internalID: -3610201536901901421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfef7eb7201393f50800000000000000
+      internalID: 6861569394014158588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec901f0a1287f260800000000000000
+      internalID: 7131311583397977323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_78
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 224
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d1d74b6e59c130800000000000000
+      internalID: 3587502393036756962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df59b0f346a7b7590800000000000000
+      internalID: -7675406568949836291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ffccf73730ae50800000000000000
+      internalID: 6818510549443146505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 192
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d54fb82194c070800000000000000
+      internalID: 8125779231876960647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_82
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4461be195f85a900800000000000000
+      internalID: 695119330428413005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5bd9ade5844f350800000000000000
+      internalID: 6049539771697313215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_84
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42cf72deda1a5980800000000000000
+      internalID: -8549491398292815283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_85
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197792914926dd200800000000000000
+      internalID: 206429546145740689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_86
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e2e7dba5bd0a520800000000000000
+      internalID: 2711408158449741330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_87
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123283914c18dc570800000000000000
+      internalID: 8488583551899935521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_88
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943f682c9ed87300800000000000000
+      internalID: 250194541593703571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_89
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b1efbd4a87b2d60800000000000000
+      internalID: 7866513823593536265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_90
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e580e3c58fe700800000000000000
+      internalID: 571822754031329739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_91
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c82dbd1e372cbf0800000000000000
+      internalID: -305554410814927719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_92
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e23e1d861da9ed0800000000000000
+      internalID: -2406380802747978090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_93
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15d880b8b1497bd0800000000000000
+      internalID: -2632000245729798886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_94
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7421b2195b043c410800000000000000
+      internalID: 1496110649785913927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_95
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642fccd78da1f12c0800000000000000
+      internalID: -4458815588947660218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_96
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21f72eedefdbde00800000000000000
+      internalID: 1070695549426463018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_97
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe5f650a49d4aa60800000000000000
+      internalID: 7684505776142900983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_98
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fe2b3627bfe0a30800000000000000
+      internalID: 4183557572591283969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_99
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16d2189c64d0c90800000000000000
+      internalID: -7202022397825949224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_100
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a037fa10146195550800000000000000
+      internalID: 6149971234608083722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_101
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 192
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e4229a42fe4cd0800000000000000
+      internalID: -2571851935088580269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_102
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272aee7f0663c750800000000000000
+      internalID: 6324010518498125608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_103
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 192
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569b23928f77dd60800000000000000
+      internalID: 7914935068918519383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_104
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 192
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3db309689ea2c10800000000000000
+      internalID: 2029691346238559143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd24a8826f45380800000000000000
+      internalID: -8983284702718533637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 160
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647b26a28dd4a0a0800000000000000
+      internalID: -6871123578257181595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_107
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 160
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba1112671c27c800800000000000000
+      internalID: 632522751610002107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c8d1866abea4c60800000000000000
+      internalID: 7803308404316670984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a9dcd5b1c3a0a00800000000000000
+      internalID: 723456778381924961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_110
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 160
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd17974e3d14a80800000000000000
+      internalID: -8484267244745794644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_111
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 128
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344d349bd831b8bf0800000000000000
+      internalID: -321141449007311805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_112
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaff65d0065c9d20800000000000000
+      internalID: 3286596389654493857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_113
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 128
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e772d3b09584554b0800000000000000
+      internalID: -5452372226584270978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 128
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b7880ce390e110800000000000000
+      internalID: 1288192135392638558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_115
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 96
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6335b48d489c2cee0800000000000000
+      internalID: -1242208974799154378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 98
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ec5ccb9503f1e0800000000000000
+      internalID: -2165380829128366825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 99
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc84aeb4a80b01270800000000000000
+      internalID: 8219263427976775884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 98
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a2b07b9a687c60800000000000000
+      internalID: 7816114369144726245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_119
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 96
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9567331e204d90800000000000000
+      internalID: -7115636751176721019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_120
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 99
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b17f6e8d86f5eb0800000000000000
+      internalID: -4728945802918552763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_121
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb862c8f9e6d422e0800000000000000
+      internalID: -2151358421587040066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_122
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 99
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e09d58bcbb527f0800000000000000
+      internalID: -637897289404707192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_123
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94565c807c2314320800000000000000
+      internalID: 2540367495240705353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e9e7e0e2a905b00800000000000000
+      internalID: 815321055156411904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_125
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd651b20d2104d810800000000000000
+      internalID: 1789056244803262172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_126
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643252a5582953aa0800000000000000
+      internalID: -6181873812055448762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_127
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa91d76d5f205aa0800000000000000
+      internalID: -6174383010904696078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d62c5bb6713280800000000000000
+      internalID: -9065334027843086850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_129
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 32
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c023c807733e0a80800000000000000
+      internalID: -8498798860460416824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_130
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197cbf149e14d75d0800000000000000
+      internalID: -3063219701451864175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_131
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 32
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cbf66c8f4402540800000000000000
+      internalID: 4981057023143558231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_132
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 32
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d36837f2f8b308e0800000000000000
+      internalID: -1728334478310874157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_133
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 32
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9667f70ea7b9970800000000000000
+      internalID: 8762732604609161720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_134
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 32
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f9b512b0c104e0800000000000000
+      internalID: -2017119286984051119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_135
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 32
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077ea43098b9a880800000000000000
+      internalID: -8599139083988601086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_136
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 32
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2972bb1e0d52ee030800000000000000
+      internalID: 3525797137348241298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_137
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 32
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3439e88555f87c0800000000000000
+      internalID: -4066938099654769717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_138
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f24d236a2c527e0800000000000000
+      internalID: -1790811257736777829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_139
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25053865529823d80800000000000000
+      internalID: -8272398772067938222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_140
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f76774fd2758030800000000000000
+      internalID: 3496326989025279793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_141
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfbf23ae284c3a60800000000000000
+      internalID: 7655072831766511578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_142
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a43383d2ab6fe0800000000000000
+      internalID: -1194682246813669772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_143
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f496e922864a40800000000000000
+      internalID: 5352108323650205262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_144
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d856df5ddcbe2a0800000000000000
+      internalID: -6707040901075202688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_145
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50d9f64f13518c80800000000000000
+      internalID: -8322279242604097444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_146
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274fc1c54ac277310800000000000000
+      internalID: 1402638893380858994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_147
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0dc8932fda3fa00800000000000000
+      internalID: 789165615579189476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_148
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 32
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f9a5c43e5aa9630800000000000000
+      internalID: 3934639620118716218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_149
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 32
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb0a902f5be0e70800000000000000
+      internalID: 9083397549601111071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_150
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb90fbe95c8fafd80800000000000000
+      internalID: -8215981042528482881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_151
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 32
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f815eeaa782da80800000000000000
+      internalID: -8443537183153746159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_152
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da24c2f5a159cdd0800000000000000
+      internalID: -2465349547824239912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_153
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2fb6868733e370800000000000000
+      internalID: 8350579185000852080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_154
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab36134510ec418a0800000000000000
+      internalID: -6335212270700633158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_155
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784b52f980e64ef0800000000000000
+      internalID: -124165056624899984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_156
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90be45d97a14ba30800000000000000
+      internalID: 4230035060579807389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_157
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc68a6c8e84aac0800000000000000
+      internalID: -3844791448133776456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Merchants Sprite Sheet 1_158
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1859d45ba7bb290800000000000000
+      internalID: -7873564604417867351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

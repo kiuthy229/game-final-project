@@ -1,0 +1,2708 @@
+fileFormatVersion: 2
+guid: 1fa784935d08eef4e94dabf64ac75d07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2863877604503840564
+    second: Adventurer Sprite Sheet v1.4_0
+  - first:
+      213: -1266689465281240090
+    second: Adventurer Sprite Sheet v1.4_1
+  - first:
+      213: -5242944083526279718
+    second: Adventurer Sprite Sheet v1.4_2
+  - first:
+      213: 1799664741224822380
+    second: Adventurer Sprite Sheet v1.4_3
+  - first:
+      213: -3926765755203178227
+    second: Adventurer Sprite Sheet v1.4_4
+  - first:
+      213: 5304967202307013471
+    second: Adventurer Sprite Sheet v1.4_5
+  - first:
+      213: -170297401886110148
+    second: Adventurer Sprite Sheet v1.4_6
+  - first:
+      213: 2534869816637012014
+    second: Adventurer Sprite Sheet v1.4_7
+  - first:
+      213: 7829566313417007826
+    second: Adventurer Sprite Sheet v1.4_8
+  - first:
+      213: -2922508548832681444
+    second: Adventurer Sprite Sheet v1.4_9
+  - first:
+      213: 2405047078984749844
+    second: Adventurer Sprite Sheet v1.4_10
+  - first:
+      213: 3993332499621776591
+    second: Adventurer Sprite Sheet v1.4_11
+  - first:
+      213: 6175533993129842417
+    second: Adventurer Sprite Sheet v1.4_12
+  - first:
+      213: -4242230928627106508
+    second: Adventurer Sprite Sheet v1.4_13
+  - first:
+      213: 1657486133219822838
+    second: Adventurer Sprite Sheet v1.4_14
+  - first:
+      213: 6606230895303897430
+    second: Adventurer Sprite Sheet v1.4_15
+  - first:
+      213: 6508949209647323753
+    second: Adventurer Sprite Sheet v1.4_16
+  - first:
+      213: -9101297833953297256
+    second: Adventurer Sprite Sheet v1.4_17
+  - first:
+      213: 7503101996351974416
+    second: Adventurer Sprite Sheet v1.4_18
+  - first:
+      213: 6248035671389579227
+    second: Adventurer Sprite Sheet v1.4_19
+  - first:
+      213: 5278955254402049155
+    second: Adventurer Sprite Sheet v1.4_20
+  - first:
+      213: 7667988669701292874
+    second: Adventurer Sprite Sheet v1.4_21
+  - first:
+      213: 7043044229227760558
+    second: Adventurer Sprite Sheet v1.4_22
+  - first:
+      213: -8625798146607337335
+    second: Adventurer Sprite Sheet v1.4_23
+  - first:
+      213: -3932337493856972995
+    second: Adventurer Sprite Sheet v1.4_24
+  - first:
+      213: 5816937331663087237
+    second: Adventurer Sprite Sheet v1.4_25
+  - first:
+      213: 2750041369006553400
+    second: Adventurer Sprite Sheet v1.4_26
+  - first:
+      213: -3471278986704046774
+    second: Adventurer Sprite Sheet v1.4_27
+  - first:
+      213: 7691081986617602023
+    second: Adventurer Sprite Sheet v1.4_28
+  - first:
+      213: -4164676343333954725
+    second: Adventurer Sprite Sheet v1.4_29
+  - first:
+      213: 3940690183556295491
+    second: Adventurer Sprite Sheet v1.4_30
+  - first:
+      213: -2565582644976145403
+    second: Adventurer Sprite Sheet v1.4_31
+  - first:
+      213: 7874054047815152164
+    second: Adventurer Sprite Sheet v1.4_32
+  - first:
+      213: -6760524258778760113
+    second: Adventurer Sprite Sheet v1.4_33
+  - first:
+      213: -6590564616636820954
+    second: Adventurer Sprite Sheet v1.4_34
+  - first:
+      213: 8748091992221642314
+    second: Adventurer Sprite Sheet v1.4_35
+  - first:
+      213: -8915952758449556001
+    second: Adventurer Sprite Sheet v1.4_36
+  - first:
+      213: 2686503880023366331
+    second: Adventurer Sprite Sheet v1.4_37
+  - first:
+      213: -2711322507452052119
+    second: Adventurer Sprite Sheet v1.4_38
+  - first:
+      213: 6388527160186576972
+    second: Adventurer Sprite Sheet v1.4_39
+  - first:
+      213: 3404086987325186629
+    second: Adventurer Sprite Sheet v1.4_40
+  - first:
+      213: -8853019744035195112
+    second: Adventurer Sprite Sheet v1.4_41
+  - first:
+      213: -4985055229645712625
+    second: Adventurer Sprite Sheet v1.4_42
+  - first:
+      213: 3393117946756277086
+    second: Adventurer Sprite Sheet v1.4_43
+  - first:
+      213: -5948658659355709483
+    second: Adventurer Sprite Sheet v1.4_44
+  - first:
+      213: 7979588385400135286
+    second: Adventurer Sprite Sheet v1.4_45
+  - first:
+      213: 785637980654718231
+    second: Adventurer Sprite Sheet v1.4_46
+  - first:
+      213: 883375995086702509
+    second: Adventurer Sprite Sheet v1.4_47
+  - first:
+      213: -3609523499973883933
+    second: Adventurer Sprite Sheet v1.4_48
+  - first:
+      213: 8990821946950807993
+    second: Adventurer Sprite Sheet v1.4_49
+  - first:
+      213: -7592897855366130612
+    second: Adventurer Sprite Sheet v1.4_50
+  - first:
+      213: 4643741869860422599
+    second: Adventurer Sprite Sheet v1.4_51
+  - first:
+      213: 8548214877539450154
+    second: Adventurer Sprite Sheet v1.4_52
+  - first:
+      213: 7964508871540632027
+    second: Adventurer Sprite Sheet v1.4_53
+  - first:
+      213: 6762287788553269345
+    second: Adventurer Sprite Sheet v1.4_54
+  - first:
+      213: -6987698426624943218
+    second: Adventurer Sprite Sheet v1.4_55
+  - first:
+      213: -8797667836118916167
+    second: Adventurer Sprite Sheet v1.4_56
+  - first:
+      213: -7988831042763688328
+    second: Adventurer Sprite Sheet v1.4_57
+  - first:
+      213: -8489109121594606649
+    second: Adventurer Sprite Sheet v1.4_58
+  - first:
+      213: 7601777268330949089
+    second: Adventurer Sprite Sheet v1.4_59
+  - first:
+      213: -525167492969549491
+    second: Adventurer Sprite Sheet v1.4_60
+  - first:
+      213: 6080430939811306591
+    second: Adventurer Sprite Sheet v1.4_61
+  - first:
+      213: 3985738935444533678
+    second: Adventurer Sprite Sheet v1.4_62
+  - first:
+      213: 101358077148995426
+    second: Adventurer Sprite Sheet v1.4_63
+  - first:
+      213: 7238843988450583166
+    second: Adventurer Sprite Sheet v1.4_64
+  - first:
+      213: -3409157765381100714
+    second: Adventurer Sprite Sheet v1.4_65
+  - first:
+      213: -409614286399023052
+    second: Adventurer Sprite Sheet v1.4_66
+  - first:
+      213: 5663165369060115347
+    second: Adventurer Sprite Sheet v1.4_67
+  - first:
+      213: -3070370331725044862
+    second: Adventurer Sprite Sheet v1.4_68
+  - first:
+      213: -6394851374711029373
+    second: Adventurer Sprite Sheet v1.4_69
+  - first:
+      213: -8346396231917534546
+    second: Adventurer Sprite Sheet v1.4_70
+  - first:
+      213: 1111027043936149863
+    second: Adventurer Sprite Sheet v1.4_71
+  - first:
+      213: -112952791791386465
+    second: Adventurer Sprite Sheet v1.4_72
+  - first:
+      213: -567237315672752315
+    second: Adventurer Sprite Sheet v1.4_73
+  - first:
+      213: -5066202226925617342
+    second: Adventurer Sprite Sheet v1.4_74
+  - first:
+      213: -5148526786072485027
+    second: Adventurer Sprite Sheet v1.4_75
+  - first:
+      213: -4339236359424133103
+    second: Adventurer Sprite Sheet v1.4_76
+  - first:
+      213: -8943459917035741006
+    second: Adventurer Sprite Sheet v1.4_77
+  - first:
+      213: -2640718143748114226
+    second: Adventurer Sprite Sheet v1.4_78
+  - first:
+      213: -4958077717354122862
+    second: Adventurer Sprite Sheet v1.4_79
+  - first:
+      213: -8131550947053737352
+    second: Adventurer Sprite Sheet v1.4_80
+  - first:
+      213: 6989883170318544287
+    second: Adventurer Sprite Sheet v1.4_81
+  - first:
+      213: -6289724026842578806
+    second: Adventurer Sprite Sheet v1.4_82
+  - first:
+      213: -1726467396547050760
+    second: Adventurer Sprite Sheet v1.4_83
+  - first:
+      213: -2128969564664037778
+    second: Adventurer Sprite Sheet v1.4_84
+  - first:
+      213: -4501501598927710727
+    second: Adventurer Sprite Sheet v1.4_85
+  - first:
+      213: -6320709423508358929
+    second: Adventurer Sprite Sheet v1.4_86
+  - first:
+      213: -8577593447612683574
+    second: Adventurer Sprite Sheet v1.4_87
+  - first:
+      213: 390995370607327331
+    second: Adventurer Sprite Sheet v1.4_88
+  - first:
+      213: 7841346792220604432
+    second: Adventurer Sprite Sheet v1.4_89
+  - first:
+      213: 3060387494288311223
+    second: Adventurer Sprite Sheet v1.4_90
+  - first:
+      213: -8885229745519440400
+    second: Adventurer Sprite Sheet v1.4_91
+  - first:
+      213: -2796135711066355734
+    second: Adventurer Sprite Sheet v1.4_92
+  - first:
+      213: -5229155613631741401
+    second: Adventurer Sprite Sheet v1.4_93
+  - first:
+      213: 8262833020652007560
+    second: Adventurer Sprite Sheet v1.4_94
+  - first:
+      213: 3081773914212220003
+    second: Adventurer Sprite Sheet v1.4_95
+  - first:
+      213: -7021355145871799683
+    second: Adventurer Sprite Sheet v1.4_96
+  - first:
+      213: -2155866014027129224
+    second: Adventurer Sprite Sheet v1.4_97
+  - first:
+      213: 9050875624587421382
+    second: Adventurer Sprite Sheet v1.4_98
+  - first:
+      213: -1584003523182445706
+    second: Adventurer Sprite Sheet v1.4_99
+  - first:
+      213: 4739302189969570273
+    second: Adventurer Sprite Sheet v1.4_100
+  - first:
+      213: -6598426121357477418
+    second: Adventurer Sprite Sheet v1.4_101
+  - first:
+      213: -6800446875112244382
+    second: Adventurer Sprite Sheet v1.4_102
+  - first:
+      213: -6045472375979465375
+    second: Adventurer Sprite Sheet v1.4_103
+  - first:
+      213: 1679331052642198091
+    second: Adventurer Sprite Sheet v1.4_104
+  - first:
+      213: 5877882295794290602
+    second: Adventurer Sprite Sheet v1.4_105
+  - first:
+      213: -2478885290731750734
+    second: Adventurer Sprite Sheet v1.4_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc81a5ffd767148d0800000000000000
+      internalID: -2863877604503840564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 417
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ae2d74a0db6ee0800000000000000
+      internalID: -1266689465281240090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 417
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add1e2462225d37b0800000000000000
+      internalID: -5242944083526279718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 417
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66308f0c81b9f810800000000000000
+      internalID: 1799664741224822380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0132fcb9535189c0800000000000000
+      internalID: -3926765755203178227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b7b9640970f9940800000000000000
+      internalID: 5304967202307013471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e086e4a6bf2adf0800000000000000
+      internalID: -170297401886110148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28328cfaaaad2320800000000000000
+      internalID: 2534869816637012014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e598441538ac60800000000000000
+      internalID: 7829566313417007826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1229cd75f92177d0800000000000000
+      internalID: -2922508548832681444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131afa6391706120800000000000000
+      internalID: 2405047078984749844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc8af530ca2b6730800000000000000
+      internalID: 3993332499621776591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f69ad68277e3b550800000000000000
+      internalID: 6175533993129842417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d710c52719025c0800000000000000
+      internalID: -4242230928627106508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 389
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc04be3bd2900710800000000000000
+      internalID: 1657486133219822838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 387
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bcca7ffb0eab50800000000000000
+      internalID: 6606230895303897430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 385
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a961ef1de645a50800000000000000
+      internalID: 6508949209647323753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 386
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c7e2c37d1b1b180800000000000000
+      internalID: -9101297833953297256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 387
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6516338f502860800000000000000
+      internalID: 7503101996351974416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 386
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd72521f65b75b650800000000000000
+      internalID: 6248035671389579227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 385
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e0d3b5dd924940800000000000000
+      internalID: 5278955254402049155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 353
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43044f711b2a6a60800000000000000
+      internalID: 7667988669701292874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 354
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab4c7c296bedb160800000000000000
+      internalID: 7043044229227760558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 354
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803f3f79420b4880800000000000000
+      internalID: -8625798146607337335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 355
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f84bd32e78d69c0800000000000000
+      internalID: -3932337493856972995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 354
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ac760fa9e9b050800000000000000
+      internalID: 5816937331663087237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 353
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b3450e0c1a2620800000000000000
+      internalID: 2750041369006553400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 353
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453a39372a83dfc0800000000000000
+      internalID: -3471278986704046774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 353
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6fb651563cba60800000000000000
+      internalID: 7691081986617602023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 353
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b5b1f5ee81436c0800000000000000
+      internalID: -4164676343333954725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 353
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bedb0e7d420b630800000000000000
+      internalID: 3940690183556295491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 321
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c2a4c6d28356cd0800000000000000
+      internalID: -2565582644976145403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 320
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422bf3e1072464d60800000000000000
+      internalID: 7874054047815152164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb414610bcd22a0800000000000000
+      internalID: -6760524258778760113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 320
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229a14466c9984a0800000000000000
+      internalID: -6590564616636820954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 320
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e6fca4157776970800000000000000
+      internalID: 8748091992221642314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 320
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53376743c244480800000000000000
+      internalID: -8915952758449556001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 321
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba50809b01684520800000000000000
+      internalID: 2686503880023366331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 321
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d8ccf6b827f5ad0800000000000000
+      internalID: -2711322507452052119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_39
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 321
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402bd4ba9b98a850800000000000000
+      internalID: 6388527160186576972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 321
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422c00541fbd3f20800000000000000
+      internalID: 3404086987325186629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 288
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173347b271c32580800000000000000
+      internalID: -8853019744035195112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03934b3ea681dab0800000000000000
+      internalID: -4985055229645712625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 289
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5329698bc6c61f20800000000000000
+      internalID: 3393117946756277086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 289
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df2d07777e127da0800000000000000
+      internalID: -5948658659355709483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 289
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9b9ddb513dbe60800000000000000
+      internalID: 7979588385400135286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_46
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 289
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dcaf6b49527ea00800000000000000
+      internalID: 785637980654718231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 289
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7004689c1624c00800000000000000
+      internalID: 883375995086702509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 289
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c1a7308568edc0800000000000000
+      internalID: -3609523499973883933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_49
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 289
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1f9c2ece0d5cc70800000000000000
+      internalID: 8990821946950807993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 289
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44931321ab90a690800000000000000
+      internalID: -7592897855366130612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c383a580a2e17040800000000000000
+      internalID: 4643741869860422599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 257
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2db277042c51a670800000000000000
+      internalID: 8548214877539450154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 259
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd960a2fe9e978e60800000000000000
+      internalID: 7964508871540632027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 262
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160fda16ae878dd50800000000000000
+      internalID: 6762287788553269345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 261
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd67bad45b60f90800000000000000
+      internalID: -6987698426624943218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 257
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a04017b768e580800000000000000
+      internalID: -8797667836118916167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f4754e78f12190800000000000000
+      internalID: -7988831042763688328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb33db2b30a03a80800000000000000
+      internalID: -8489109121594606649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9618c4620fe7960800000000000000
+      internalID: 7601777268330949089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41b7f592fa36b8f0800000000000000
+      internalID: -525167492969549491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 193
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c5fb869b7026450800000000000000
+      internalID: 6080430939811306591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea17d96c170305730800000000000000
+      internalID: 3985738935444533678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f159752a8186100800000000000000
+      internalID: 101358077148995426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 193
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72a114214a857460800000000000000
+      internalID: 7238843988450583166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be13b231d30b0d0800000000000000
+      internalID: -3409157765381100714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438d24c0af1c05af0800000000000000
+      internalID: -409614286399023052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3934f1ff5ea979e40800000000000000
+      internalID: 5663165369060115347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28361a8637ad365d0800000000000000
+      internalID: -3070370331725044862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_69
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3814eea5e8ce047a0800000000000000
+      internalID: -6394851374711029373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 162
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea285e129d4ab2c80800000000000000
+      internalID: -8346396231917534546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761aaa1c5392b6f00800000000000000
+      internalID: 1111027043936149863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90c2e8c806be6ef0800000000000000
+      internalID: -112952791791386465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbaffaaa4c028f0800000000000000
+      internalID: -567237315672752315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f3ecf9aeb31b9b0800000000000000
+      internalID: -5066202226925617342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_75
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 129
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53e0978a22cc88b0800000000000000
+      internalID: -5148526786072485027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b018758fe7c3c0800000000000000
+      internalID: -4339236359424133103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 129
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e326079272e380800000000000000
+      internalID: -8943459917035741006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 129
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f6f1e6d84a5bd0800000000000000
+      internalID: -2640718143748114226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_79
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 129
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291f358c59e513bb0800000000000000
+      internalID: -4958077717354122862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aeed71f7de62f80800000000000000
+      internalID: -8131550947053737352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d615c95bd010160800000000000000
+      internalID: 6989883170318544287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800fcc625966b8a0800000000000000
+      internalID: -6289724026842578806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_83
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20580dc0b5a08e0800000000000000
+      internalID: -1726467396547050760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef490f5716472e0800000000000000
+      internalID: -2128969564664037778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59f0055247781c0800000000000000
+      internalID: -4501501598927710727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f15394445848a0800000000000000
+      internalID: -6320709423508358929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae357943446f880800000000000000
+      internalID: -8577593447612683574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 67
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3683fddc7381d6500800000000000000
+      internalID: 390995370607327331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_89
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01835febc5f02dc60800000000000000
+      internalID: 7841346792220604432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_90
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34a10263ea87a20800000000000000
+      internalID: 3060387494288311223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 68
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd44965f9251b480800000000000000
+      internalID: -8885229745519440400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae70b16a2612239d0800000000000000
+      internalID: -2796135711066355734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 65
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228d36bcae4e67b0800000000000000
+      internalID: -5229155613631741401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 33
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b45a9ada7ba270800000000000000
+      internalID: 8262833020652007560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_95
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3faa0c09a4ca20800000000000000
+      internalID: 3081773914212220003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_96
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a437012b22f8e90800000000000000
+      internalID: -7021355145871799683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 33
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e53925843d412e0800000000000000
+      internalID: -2155866014027129224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_98
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c666cd4d6b2b9d70800000000000000
+      internalID: 9050875624587421382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3eb5203d740ae0800000000000000
+      internalID: -1584003523182445706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_100
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9fd5c5b3265c140800000000000000
+      internalID: 4739302189969570273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d934df076ead64a0800000000000000
+      internalID: -6598426121357477418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_102
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf40fe895ff91a0800000000000000
+      internalID: -6800446875112244382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_103
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ae4287ea2a1ca0800000000000000
+      internalID: -6045472375979465375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426505e1be2e4710800000000000000
+      internalID: 1679331052642198091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf40604ece629150800000000000000
+      internalID: 5877882295794290602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.4_106
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba3ef636fa399dd0800000000000000
+      internalID: -2478885290731750734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

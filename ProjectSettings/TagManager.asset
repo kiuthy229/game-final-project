@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  - weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character
+  - Name
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ground
+    uniqueID: 189118965
+    locked: 0
+  - name: wall
+    uniqueID: 1747603305
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: under rooftop
+    uniqueID: 3198053791
+    locked: 0
+  - name: sign
+    uniqueID: 1092366053
+    locked: 0
+  - name: products
+    uniqueID: 1934630737
+    locked: 0
+  - name: light
+    uniqueID: 3921130563
+    locked: 0
+  - name: Player
+    uniqueID: 1257958467
+    locked: 0
+  - name: rooftop
+    uniqueID: 197435063
+    locked: 0
+  - name: chimney
+    uniqueID: 2712074269
+    locked: 0
+  - name: waterfall
+    uniqueID: 2159109031
+    locked: 0
+  - name: bubblechat
+    uniqueID: 3635707195
+    locked: 0

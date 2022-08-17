@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: d17f6325c6bccd04584bd3ebbf3c9e07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8476652840971015511
+    second: Brain Mole Monarch Sprite Sheet_0
+  - first:
+      213: -7251642278615428772
+    second: Brain Mole Monarch Sprite Sheet_1
+  - first:
+      213: -2094954397124056875
+    second: Brain Mole Monarch Sprite Sheet_2
+  - first:
+      213: -1225043332585374589
+    second: Brain Mole Monarch Sprite Sheet_3
+  - first:
+      213: -2368135237913251631
+    second: Brain Mole Monarch Sprite Sheet_4
+  - first:
+      213: -705454514938742296
+    second: Brain Mole Monarch Sprite Sheet_5
+  - first:
+      213: -4611414169458109434
+    second: Brain Mole Monarch Sprite Sheet_6
+  - first:
+      213: 5220204805818664362
+    second: Brain Mole Monarch Sprite Sheet_7
+  - first:
+      213: 6487615146622791141
+    second: Brain Mole Monarch Sprite Sheet_8
+  - first:
+      213: -974942569259172088
+    second: Brain Mole Monarch Sprite Sheet_9
+  - first:
+      213: 6568142057587399945
+    second: Brain Mole Monarch Sprite Sheet_10
+  - first:
+      213: 7623496985993013305
+    second: Brain Mole Monarch Sprite Sheet_11
+  - first:
+      213: -1116176690112691549
+    second: Brain Mole Monarch Sprite Sheet_12
+  - first:
+      213: 8399649232368507683
+    second: Brain Mole Monarch Sprite Sheet_13
+  - first:
+      213: -1540289685980664225
+    second: Brain Mole Monarch Sprite Sheet_14
+  - first:
+      213: 5443424182966550017
+    second: Brain Mole Monarch Sprite Sheet_15
+  - first:
+      213: 5634531801259102542
+    second: Brain Mole Monarch Sprite Sheet_16
+  - first:
+      213: 2204811518333902865
+    second: Brain Mole Monarch Sprite Sheet_17
+  - first:
+      213: 4054866763474887788
+    second: Brain Mole Monarch Sprite Sheet_18
+  - first:
+      213: 1766801068633390018
+    second: Brain Mole Monarch Sprite Sheet_19
+  - first:
+      213: -8751249364138768376
+    second: Brain Mole Monarch Sprite Sheet_20
+  - first:
+      213: -5087314971293064262
+    second: Brain Mole Monarch Sprite Sheet_21
+  - first:
+      213: 8850005466481012677
+    second: Brain Mole Monarch Sprite Sheet_22
+  - first:
+      213: 1356979375715648096
+    second: Brain Mole Monarch Sprite Sheet_23
+  - first:
+      213: 8322154424310557786
+    second: Brain Mole Monarch Sprite Sheet_24
+  - first:
+      213: -7943854529038405704
+    second: Brain Mole Monarch Sprite Sheet_25
+  - first:
+      213: -3452412087039115276
+    second: Brain Mole Monarch Sprite Sheet_26
+  - first:
+      213: 7200010645742952611
+    second: Brain Mole Monarch Sprite Sheet_27
+  - first:
+      213: 5823509818467442750
+    second: Brain Mole Monarch Sprite Sheet_28
+  - first:
+      213: -3193116978479036562
+    second: Brain Mole Monarch Sprite Sheet_29
+  - first:
+      213: 4262030833439480006
+    second: Brain Mole Monarch Sprite Sheet_30
+  - first:
+      213: -2903692088628320104
+    second: Brain Mole Monarch Sprite Sheet_31
+  - first:
+      213: 5299463486816083338
+    second: Brain Mole Monarch Sprite Sheet_32
+  - first:
+      213: 3047741816091371708
+    second: Brain Mole Monarch Sprite Sheet_33
+  - first:
+      213: 7192754960515653680
+    second: Brain Mole Monarch Sprite Sheet_34
+  - first:
+      213: 532114936510669507
+    second: Brain Mole Monarch Sprite Sheet_35
+  - first:
+      213: 7331453407928705391
+    second: Brain Mole Monarch Sprite Sheet_36
+  - first:
+      213: -1386406442570520349
+    second: Brain Mole Monarch Sprite Sheet_37
+  - first:
+      213: -4207976109906987810
+    second: Brain Mole Monarch Sprite Sheet_38
+  - first:
+      213: 8080492227546356624
+    second: Brain Mole Monarch Sprite Sheet_39
+  - first:
+      213: -2185911403663037763
+    second: Brain Mole Monarch Sprite Sheet_40
+  - first:
+      213: 4336627608332084573
+    second: Brain Mole Monarch Sprite Sheet_41
+  - first:
+      213: 4411802643731136073
+    second: Brain Mole Monarch Sprite Sheet_42
+  - first:
+      213: -7840252466827785562
+    second: Brain Mole Monarch Sprite Sheet_43
+  - first:
+      213: 699813728361096067
+    second: Brain Mole Monarch Sprite Sheet_44
+  - first:
+      213: 6634842258218839072
+    second: Brain Mole Monarch Sprite Sheet_45
+  - first:
+      213: 2653525431046334938
+    second: Brain Mole Monarch Sprite Sheet_46
+  - first:
+      213: -8214331436216225043
+    second: Brain Mole Monarch Sprite Sheet_47
+  - first:
+      213: -1569518619270244460
+    second: Brain Mole Monarch Sprite Sheet_48
+  - first:
+      213: 9207271317601961782
+    second: Brain Mole Monarch Sprite Sheet_49
+  - first:
+      213: -6035149356187843273
+    second: Brain Mole Monarch Sprite Sheet_50
+  - first:
+      213: 7356700312275854390
+    second: Brain Mole Monarch Sprite Sheet_51
+  - first:
+      213: 8272256893899373120
+    second: Brain Mole Monarch Sprite Sheet_52
+  - first:
+      213: -4307092496551085785
+    second: Brain Mole Monarch Sprite Sheet_53
+  - first:
+      213: -274950911339858223
+    second: Brain Mole Monarch Sprite Sheet_54
+  - first:
+      213: 6939807051979285307
+    second: Brain Mole Monarch Sprite Sheet_55
+  - first:
+      213: -1815082204243837857
+    second: Brain Mole Monarch Sprite Sheet_56
+  - first:
+      213: -2655228275607774601
+    second: Brain Mole Monarch Sprite Sheet_57
+  - first:
+      213: 5321750624069980097
+    second: Brain Mole Monarch Sprite Sheet_58
+  - first:
+      213: -9199351229620273923
+    second: Brain Mole Monarch Sprite Sheet_59
+  - first:
+      213: -645732993350418613
+    second: Brain Mole Monarch Sprite Sheet_60
+  - first:
+      213: 6754303035721997216
+    second: Brain Mole Monarch Sprite Sheet_61
+  - first:
+      213: 3006571829296801921
+    second: Brain Mole Monarch Sprite Sheet_62
+  - first:
+      213: -1431692515332291094
+    second: Brain Mole Monarch Sprite Sheet_63
+  - first:
+      213: 4299888953140789658
+    second: Brain Mole Monarch Sprite Sheet_64
+  - first:
+      213: -1917705159409296794
+    second: Brain Mole Monarch Sprite Sheet_65
+  - first:
+      213: 6596608985437084749
+    second: Brain Mole Monarch Sprite Sheet_66
+  - first:
+      213: 8165765478624424468
+    second: Brain Mole Monarch Sprite Sheet_67
+  - first:
+      213: -6153409363551584258
+    second: Brain Mole Monarch Sprite Sheet_68
+  - first:
+      213: 5608256941136665059
+    second: Brain Mole Monarch Sprite Sheet_69
+  - first:
+      213: -3412505367381987612
+    second: Brain Mole Monarch Sprite Sheet_70
+  - first:
+      213: -3050740722853369946
+    second: Brain Mole Monarch Sprite Sheet_71
+  - first:
+      213: -6219064501024597444
+    second: Brain Mole Monarch Sprite Sheet_72
+  - first:
+      213: -2434181244044890324
+    second: Brain Mole Monarch Sprite Sheet_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaed910721ec5a80800000000000000
+      internalID: -8476652840971015511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c515ce8b4cdfc5b90800000000000000
+      internalID: -7251642278615428772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d827ca431a3de2e0800000000000000
+      internalID: -2094954397124056875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cb9ce5495cffee0800000000000000
+      internalID: -1225043332585374589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0781c4c81b22fd0800000000000000
+      internalID: -2368135237913251631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e971e73bd8b536f0800000000000000
+      internalID: -705454514938742296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041f35ce37f000c0800000000000000
+      internalID: -4611414169458109434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5cb91fc94e17840800000000000000
+      internalID: 5220204805818664362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed25ed5a93a80a50800000000000000
+      internalID: 6487615146622791141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f76e216ee4872f0800000000000000
+      internalID: -974942569259172088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ddcc0e66ab62b50800000000000000
+      internalID: 6568142057587399945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ef542e1a1cc960800000000000000
+      internalID: 7623496985993013305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2034fc63b8280f0800000000000000
+      internalID: -1116176690112691549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b153d397c819470800000000000000
+      internalID: 8399649232368507683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eaceff0bacf9ae0800000000000000
+      internalID: -1540289685980664225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10efd73347dea8b40800000000000000
+      internalID: 5443424182966550017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d0b9f1d0e13e40800000000000000
+      internalID: 5634531801259102542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1106bf2f460199e10800000000000000
+      internalID: 2204811518333902865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Mole Monarch Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64657876d7c54830800000000000000
+      internalID: 4054866763474887788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
