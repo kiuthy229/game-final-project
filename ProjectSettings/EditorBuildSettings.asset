@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Forest.unity
     guid: f6f00c4d5285b10488e6cd9d30440e88
+  - enabled: 1
+    path: Assets/Scenes/Marketplace.unity
+    guid: c70e0656904bd5340b50b313a1b41485
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 6614b4f895b113548a90475273b1758c
   m_configObjects: {}
